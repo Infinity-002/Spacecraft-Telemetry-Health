@@ -1,0 +1,111 @@
+# Spacecraft Simulation Scenario Library
+# Defines sequences of events and injected faults for testing simulations and operators
+
+scenarios:
+  - id: nominal_orbit_cycle
+    name: Nominal Orbit Cycle
+    description: Standard 98.8-minute orbit with solar power charging, eclipse, ground pass, and science operations.
+    timeline:
+      - time_sec: 0.0
+        event_id: nominal
+        description: "Start simulation in sunlit portion of orbit. Battery is charging."
+      - time_sec: 2000.0
+        event_id: payload_active
+        description: "Scheduled payload science observation sequence starts."
+      - time_sec: 2900.0
+        event_id: payload_idle
+        description: "Payload observation completes; instruments return to standby."
+      - time_sec: 3828.0
+        event_id: eclipse
+        description: "Spacecraft enters Earth's shadow. Solar arrays cease generating power."
+      - time_sec: 5928.0
+        event_id: nominal
+        description: "Orbit sunrise; arrays resume charging the battery."
+      - time_sec: 6500.0
+        event_id: ground_pass
+        description: "Ground station contact established."
+      - time_sec: 6510.0
+        event_id: communication_window
+        description: "High-rate downlink initiated. S-band transmitter active."
+      - time_sec: 7100.0
+        event_id: payload_idle
+        description: "Ground pass ends; downlink completes, transmitter powered off."
+
+  - id: power_subsystem_degradation
+    name: Long-Term Power Subsystem Aging
+    description: Simulates 3 years of orbital aging, showing the combined effect of solar panel degradation and battery capacity fade.
+    timeline:
+      - time_sec: 0.0
+        event_id: nominal
+      - time_sec: 10.0
+        fault_id: battery_aging
+        description: "Inject battery aging fault (capacity fade, high internal resistance)."
+      - time_sec: 20.0
+        fault_id: solar_panel_degradation
+        description: "Inject solar panel radiation degradation (lower current limit)."
+      - time_sec: 3828.0
+        event_id: eclipse
+        description: "Enter eclipse. Operator will observe deeper and faster battery discharge under aged load."
+      - time_sec: 5928.0
+        event_id: nominal
+        description: "Sunrise. Battery charges slower due to degraded solar panels."
+
+  - id: reaction_wheel_breakdown
+    name: ADCS Reaction Wheel Breakdown
+    description: Bearing wear on Reaction Wheel leads to motor overcurrent, thermal warning, and final speed saturation which causes pointing loss and Safe Mode trigger.
+    timeline:
+      - time_sec: 0.0
+        event_id: nominal
+      - time_sec: 100.0
+        fault_id: rw_friction
+        description: "Reaction Wheel bearing wear fault starts."
+      - time_sec: 1000.0
+        event_id: payload_active
+        description: "Science payload turns on, requiring attitude adjustments. High wheel torque spikes current and temperature."
+      - time_sec: 1500.0
+        description: "Operator observes temp_rw exceeding 40°C and rw_current peaking above 1.5A."
+      - time_sec: 2500.0
+        fault_id: sensor_drift
+        description: "Magnetometer thermal drift is injected to worsen pointing corrections."
+      - time_sec: 3500.0
+        description: "Wheel speed (rw_speed) reaches saturation limit (6000 RPM). Pointing control is lost."
+      - time_sec: 3520.0
+        event_id: safe_mode
+        description: "Automated FSW triggers Safe Mode due to attitude pointing error exceeding 1.0 degree. Payload is shed."
+
+  - id: transmitter_thermal_emergency
+    name: Transmitter Cooling Pump Failure
+    description: Central cooling pump failure traps heat in the transmitter during ground pass, forcing emergency Safe Mode to prevent thermal runaway.
+    timeline:
+      - time_sec: 0.0
+        event_id: nominal
+      - time_sec: 200.0
+        event_id: ground_pass
+      - time_sec: 210.0
+        event_id: communication_window
+        description: "S-band transmitter powered on at 10W."
+      - time_sec: 300.0
+        fault_id: cooling_failure
+        description: "Cooling pump failure occurs. Transmitter PA heat can no longer dissipate to the structure."
+      - time_sec: 450.0
+        description: "Transmitter temperature (temp_tx) spikes past 65°C warning limit."
+      - time_sec: 550.0
+        event_id: safe_mode
+        description: "Automated FSW triggers Safe Mode to shut down the transmitter as temp_tx exceeds 80°C critical limit."
+
+  - id: battery_thermal_catastrophe
+    name: Battery Thermal Runaway Catastrophe
+    description: Active cooling loop pump failure traps heat in the battery compartment, triggering battery overheating, culminating in a thermal runaway and total spacecraft power loss.
+    timeline:
+      - time_sec: 0.0
+        event_id: nominal
+      - time_sec: 100.0
+        fault_id: cooling_failure
+        description: "Active cooling loop pump failure occurs, isolating battery heat dissipation."
+      - time_sec: 1200.0
+        description: "Battery temperature (batt_temp) rises past 40°C warning threshold due to trapped heat."
+      - time_sec: 2000.0
+        fault_id: thermal_runaway
+        description: "Battery exceeds 45°C, triggering self-sustaining chemical runaway."
+      - time_sec: 2110.0
+        description: "Battery voltage drops to 0.0V. OBC brownout occurs. Telemetry ceases."

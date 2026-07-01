@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment Configuration
+.python-version
+
+# Large Raw Datasets, Checkpoints, and Intermediate Features
+raw_datasets/
+ml_dataset/
+artifacts/
+
+# Design Analysis and Spacecraft Models (Keep Local)
+data_analysis/
+spacecraft_design/
+
+# Presentation, diagrams, and scripts
+architecture_diagram.png
+presentation.pptx
+presentation_generation_prompt.md
+presentation_script.md
+
+# Reports and Documents
+*.pdf
+*.typ
+
+# OS specific files
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+
+# Frontend built assets & node modules
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/

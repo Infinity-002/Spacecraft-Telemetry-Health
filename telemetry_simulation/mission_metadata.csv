@@ -1,0 +1,6 @@
+mission_id,spacecraft_name,mission_type,duration_hours,orbit_count,pass_count,status
+M01,Aether-1,Healthy,165.0,100,100,SUCCESS
+M02,Aether-1,Battery Fault,165.0,100,100,SUCCESS
+M03,Aether-1,Thermal Fault,113.95,69,69,FAILED
+M04,Aether-1,Communication Fault,165.0,100,100,SUCCESS
+M05,Aether-1,Mixed Fault,165.0,100,100,SAFE_MODE

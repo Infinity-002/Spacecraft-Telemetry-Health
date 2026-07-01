@@ -1,0 +1,2796 @@
+note_id,subsystem,concern,expected_behaviour,confidence,action,urgency
+NOTE_0001,EPS,,Yes,High,,Nominal
+NOTE_0002,System,,Yes,High,,Nominal
+NOTE_0003,System,,Yes,High,,Nominal
+NOTE_0004,EPS,,Yes,High,,Nominal
+NOTE_0005,TT&C,,Yes,High,,Nominal
+NOTE_0006,TT&C,,Yes,High,,Nominal
+NOTE_0007,EPS,,Yes,High,,Nominal
+NOTE_0008,System,,Yes,High,,Nominal
+NOTE_0009,System,,Yes,High,,Nominal
+NOTE_0010,EPS,,Yes,High,,Nominal
+NOTE_0011,TT&C,,Yes,High,,Nominal
+NOTE_0012,TT&C,,Yes,High,,Nominal
+NOTE_0013,EPS,,Yes,High,,Nominal
+NOTE_0014,System,,Yes,High,,Nominal
+NOTE_0015,System,,Yes,High,,Nominal
+NOTE_0016,EPS,,Yes,High,,Nominal
+NOTE_0017,TT&C,,Yes,High,,Nominal
+NOTE_0018,TT&C,,Yes,High,,Nominal
+NOTE_0019,EPS,,Yes,High,,Nominal
+NOTE_0020,System,,Yes,High,,Nominal
+NOTE_0021,System,,Yes,High,,Nominal
+NOTE_0022,EPS,,Yes,High,,Nominal
+NOTE_0023,TT&C,,Yes,High,,Nominal
+NOTE_0024,TT&C,,Yes,High,,Nominal
+NOTE_0025,EPS,,Yes,High,,Nominal
+NOTE_0026,System,,Yes,High,,Nominal
+NOTE_0027,System,,Yes,High,,Nominal
+NOTE_0028,EPS,,Yes,High,,Nominal
+NOTE_0029,TT&C,,Yes,High,,Nominal
+NOTE_0030,TT&C,,Yes,High,,Nominal
+NOTE_0031,EPS,,Yes,High,,Nominal
+NOTE_0032,System,,Yes,High,,Nominal
+NOTE_0033,System,,Yes,High,,Nominal
+NOTE_0034,EPS,,Yes,High,,Nominal
+NOTE_0035,TT&C,,Yes,High,,Nominal
+NOTE_0036,TT&C,,Yes,High,,Nominal
+NOTE_0037,EPS,,Yes,High,,Nominal
+NOTE_0038,System,,Yes,High,,Nominal
+NOTE_0039,System,,Yes,High,,Nominal
+NOTE_0040,EPS,,Yes,High,,Nominal
+NOTE_0041,TT&C,,Yes,High,,Nominal
+NOTE_0042,TT&C,,Yes,High,,Nominal
+NOTE_0043,EPS,,Yes,High,,Nominal
+NOTE_0044,System,,Yes,High,,Nominal
+NOTE_0045,System,,Yes,High,,Nominal
+NOTE_0046,EPS,,Yes,High,,Nominal
+NOTE_0047,TT&C,,Yes,High,,Nominal
+NOTE_0048,TT&C,,Yes,High,,Nominal
+NOTE_0049,EPS,,Yes,High,,Nominal
+NOTE_0050,System,,Yes,High,,Nominal
+NOTE_0051,System,,Yes,High,,Nominal
+NOTE_0052,EPS,,Yes,High,,Nominal
+NOTE_0053,TT&C,,Yes,High,,Nominal
+NOTE_0054,TT&C,,Yes,High,,Nominal
+NOTE_0055,EPS,,Yes,High,,Nominal
+NOTE_0056,System,,Yes,High,,Nominal
+NOTE_0057,System,,Yes,High,,Nominal
+NOTE_0058,EPS,,Yes,High,,Nominal
+NOTE_0059,TT&C,,Yes,High,,Nominal
+NOTE_0060,TT&C,,Yes,High,,Nominal
+NOTE_0061,EPS,,Yes,High,,Nominal
+NOTE_0062,System,,Yes,High,,Nominal
+NOTE_0063,System,,Yes,High,,Nominal
+NOTE_0064,EPS,,Yes,High,,Nominal
+NOTE_0065,TT&C,,Yes,High,,Nominal
+NOTE_0066,TT&C,,Yes,High,,Nominal
+NOTE_0067,EPS,,Yes,High,,Nominal
+NOTE_0068,System,,Yes,High,,Nominal
+NOTE_0069,System,,Yes,High,,Nominal
+NOTE_0070,EPS,,Yes,High,,Nominal
+NOTE_0071,TT&C,,Yes,High,,Nominal
+NOTE_0072,TT&C,,Yes,High,,Nominal
+NOTE_0073,EPS,,Yes,High,,Nominal
+NOTE_0074,System,,Yes,High,,Nominal
+NOTE_0075,System,,Yes,High,,Nominal
+NOTE_0076,EPS,,Yes,High,,Nominal
+NOTE_0077,TT&C,,Yes,High,,Nominal
+NOTE_0078,TT&C,,Yes,High,,Nominal
+NOTE_0079,EPS,,Yes,High,,Nominal
+NOTE_0080,System,,Yes,High,,Nominal
+NOTE_0081,System,,Yes,High,,Nominal
+NOTE_0082,EPS,,Yes,High,,Nominal
+NOTE_0083,TT&C,,Yes,High,,Nominal
+NOTE_0084,TT&C,,Yes,High,,Nominal
+NOTE_0085,EPS,,Yes,High,,Nominal
+NOTE_0086,System,,Yes,High,,Nominal
+NOTE_0087,System,,Yes,High,,Nominal
+NOTE_0088,EPS,,Yes,High,,Nominal
+NOTE_0089,TT&C,,Yes,High,,Nominal
+NOTE_0090,TT&C,,Yes,High,,Nominal
+NOTE_0091,EPS,,Yes,High,,Nominal
+NOTE_0092,System,,Yes,High,,Nominal
+NOTE_0093,System,,Yes,High,,Nominal
+NOTE_0094,EPS,,Yes,High,,Nominal
+NOTE_0095,TT&C,,Yes,High,,Nominal
+NOTE_0096,TT&C,,Yes,High,,Nominal
+NOTE_0097,EPS,,Yes,High,,Nominal
+NOTE_0098,System,,Yes,High,,Nominal
+NOTE_0099,System,,Yes,High,,Nominal
+NOTE_0100,EPS,,Yes,High,,Nominal
+NOTE_0101,TT&C,,Yes,High,,Nominal
+NOTE_0102,TT&C,,Yes,High,,Nominal
+NOTE_0103,EPS,,Yes,High,,Nominal
+NOTE_0104,System,,Yes,High,,Nominal
+NOTE_0105,System,,Yes,High,,Nominal
+NOTE_0106,EPS,,Yes,High,,Nominal
+NOTE_0107,TT&C,,Yes,High,,Nominal
+NOTE_0108,TT&C,,Yes,High,,Nominal
+NOTE_0109,EPS,,Yes,High,,Nominal
+NOTE_0110,System,,Yes,High,,Nominal
+NOTE_0111,System,,Yes,High,,Nominal
+NOTE_0112,EPS,,Yes,High,,Nominal
+NOTE_0113,TT&C,,Yes,High,,Nominal
+NOTE_0114,TT&C,,Yes,High,,Nominal
+NOTE_0115,EPS,,Yes,High,,Nominal
+NOTE_0116,System,,Yes,High,,Nominal
+NOTE_0117,System,,Yes,High,,Nominal
+NOTE_0118,EPS,,Yes,High,,Nominal
+NOTE_0119,TT&C,,Yes,High,,Nominal
+NOTE_0120,TT&C,,Yes,High,,Nominal
+NOTE_0121,EPS,,Yes,High,,Nominal
+NOTE_0122,System,,Yes,High,,Nominal
+NOTE_0123,System,,Yes,High,,Nominal
+NOTE_0124,EPS,,Yes,High,,Nominal
+NOTE_0125,TT&C,,Yes,High,,Nominal
+NOTE_0126,TT&C,,Yes,High,,Nominal
+NOTE_0127,EPS,,Yes,High,,Nominal
+NOTE_0128,System,,Yes,High,,Nominal
+NOTE_0129,System,,Yes,High,,Nominal
+NOTE_0130,EPS,,Yes,High,,Nominal
+NOTE_0131,TT&C,,Yes,High,,Nominal
+NOTE_0132,TT&C,,Yes,High,,Nominal
+NOTE_0133,EPS,,Yes,High,,Nominal
+NOTE_0134,System,,Yes,High,,Nominal
+NOTE_0135,System,,Yes,High,,Nominal
+NOTE_0136,EPS,,Yes,High,,Nominal
+NOTE_0137,TT&C,,Yes,High,,Nominal
+NOTE_0138,TT&C,,Yes,High,,Nominal
+NOTE_0139,EPS,,Yes,High,,Nominal
+NOTE_0140,System,,Yes,High,,Nominal
+NOTE_0141,System,,Yes,High,,Nominal
+NOTE_0142,EPS,,Yes,High,,Nominal
+NOTE_0143,TT&C,,Yes,High,,Nominal
+NOTE_0144,TT&C,,Yes,High,,Nominal
+NOTE_0145,EPS,,Yes,High,,Nominal
+NOTE_0146,System,,Yes,High,,Nominal
+NOTE_0147,System,,Yes,High,,Nominal
+NOTE_0148,EPS,,Yes,High,,Nominal
+NOTE_0149,TT&C,,Yes,High,,Nominal
+NOTE_0150,TT&C,,Yes,High,,Nominal
+NOTE_0151,EPS,,Yes,High,,Nominal
+NOTE_0152,System,,Yes,High,,Nominal
+NOTE_0153,System,,Yes,High,,Nominal
+NOTE_0154,EPS,,Yes,High,,Nominal
+NOTE_0155,TT&C,,Yes,High,,Nominal
+NOTE_0156,TT&C,,Yes,High,,Nominal
+NOTE_0157,EPS,,Yes,High,,Nominal
+NOTE_0158,System,,Yes,High,,Nominal
+NOTE_0159,System,,Yes,High,,Nominal
+NOTE_0160,EPS,,Yes,High,,Nominal
+NOTE_0161,TT&C,,Yes,High,,Nominal
+NOTE_0162,TT&C,,Yes,High,,Nominal
+NOTE_0163,EPS,,Yes,High,,Nominal
+NOTE_0164,System,,Yes,High,,Nominal
+NOTE_0165,System,,Yes,High,,Nominal
+NOTE_0166,EPS,,Yes,High,,Nominal
+NOTE_0167,TT&C,,Yes,High,,Nominal
+NOTE_0168,TT&C,,Yes,High,,Nominal
+NOTE_0169,EPS,,Yes,High,,Nominal
+NOTE_0170,System,,Yes,High,,Nominal
+NOTE_0171,System,,Yes,High,,Nominal
+NOTE_0172,EPS,,Yes,High,,Nominal
+NOTE_0173,TT&C,,Yes,High,,Nominal
+NOTE_0174,TT&C,,Yes,High,,Nominal
+NOTE_0175,EPS,,Yes,High,,Nominal
+NOTE_0176,System,,Yes,High,,Nominal
+NOTE_0177,System,,Yes,High,,Nominal
+NOTE_0178,EPS,,Yes,High,,Nominal
+NOTE_0179,TT&C,,Yes,High,,Nominal
+NOTE_0180,TT&C,,Yes,High,,Nominal
+NOTE_0181,EPS,,Yes,High,,Nominal
+NOTE_0182,System,,Yes,High,,Nominal
+NOTE_0183,System,,Yes,High,,Nominal
+NOTE_0184,EPS,,Yes,High,,Nominal
+NOTE_0185,TT&C,,Yes,High,,Nominal
+NOTE_0186,TT&C,,Yes,High,,Nominal
+NOTE_0187,EPS,,Yes,High,,Nominal
+NOTE_0188,System,,Yes,High,,Nominal
+NOTE_0189,System,,Yes,High,,Nominal
+NOTE_0190,EPS,,Yes,High,,Nominal
+NOTE_0191,TT&C,,Yes,High,,Nominal
+NOTE_0192,TT&C,,Yes,High,,Nominal
+NOTE_0193,EPS,,Yes,High,,Nominal
+NOTE_0194,System,,Yes,High,,Nominal
+NOTE_0195,System,,Yes,High,,Nominal
+NOTE_0196,EPS,,Yes,High,,Nominal
+NOTE_0197,TT&C,,Yes,High,,Nominal
+NOTE_0198,TT&C,,Yes,High,,Nominal
+NOTE_0199,EPS,,Yes,High,,Nominal
+NOTE_0200,System,,Yes,High,,Nominal
+NOTE_0201,System,,Yes,High,,Nominal
+NOTE_0202,EPS,,Yes,High,,Nominal
+NOTE_0203,TT&C,,Yes,High,,Nominal
+NOTE_0204,TT&C,,Yes,High,,Nominal
+NOTE_0205,EPS,,Yes,High,,Nominal
+NOTE_0206,System,,Yes,High,,Nominal
+NOTE_0207,System,,Yes,High,,Nominal
+NOTE_0208,EPS,,Yes,High,,Nominal
+NOTE_0209,TT&C,,Yes,High,,Nominal
+NOTE_0210,TT&C,,Yes,High,,Nominal
+NOTE_0211,EPS,,Yes,High,,Nominal
+NOTE_0212,System,,Yes,High,,Nominal
+NOTE_0213,System,,Yes,High,,Nominal
+NOTE_0214,EPS,,Yes,High,,Nominal
+NOTE_0215,TT&C,,Yes,High,,Nominal
+NOTE_0216,TT&C,,Yes,High,,Nominal
+NOTE_0217,EPS,,Yes,High,,Nominal
+NOTE_0218,System,,Yes,High,,Nominal
+NOTE_0219,System,,Yes,High,,Nominal
+NOTE_0220,EPS,,Yes,High,,Nominal
+NOTE_0221,TT&C,,Yes,High,,Nominal
+NOTE_0222,TT&C,,Yes,High,,Nominal
+NOTE_0223,EPS,,Yes,High,,Nominal
+NOTE_0224,System,,Yes,High,,Nominal
+NOTE_0225,System,,Yes,High,,Nominal
+NOTE_0226,EPS,,Yes,High,,Nominal
+NOTE_0227,TT&C,,Yes,High,,Nominal
+NOTE_0228,TT&C,,Yes,High,,Nominal
+NOTE_0229,EPS,,Yes,High,,Nominal
+NOTE_0230,System,,Yes,High,,Nominal
+NOTE_0231,System,,Yes,High,,Nominal
+NOTE_0232,EPS,,Yes,High,,Nominal
+NOTE_0233,TT&C,,Yes,High,,Nominal
+NOTE_0234,TT&C,,Yes,High,,Nominal
+NOTE_0235,EPS,,Yes,High,,Nominal
+NOTE_0236,System,,Yes,High,,Nominal
+NOTE_0237,System,,Yes,High,,Nominal
+NOTE_0238,EPS,,Yes,High,,Nominal
+NOTE_0239,TT&C,,Yes,High,,Nominal
+NOTE_0240,TT&C,,Yes,High,,Nominal
+NOTE_0241,EPS,,Yes,High,,Nominal
+NOTE_0242,System,,Yes,High,,Nominal
+NOTE_0243,System,,Yes,High,,Nominal
+NOTE_0244,EPS,,Yes,High,,Nominal
+NOTE_0245,TT&C,,Yes,High,,Nominal
+NOTE_0246,TT&C,,Yes,High,,Nominal
+NOTE_0247,EPS,,Yes,High,,Nominal
+NOTE_0248,System,,Yes,High,,Nominal
+NOTE_0249,System,,Yes,High,,Nominal
+NOTE_0250,EPS,,Yes,High,,Nominal
+NOTE_0251,TT&C,,Yes,High,,Nominal
+NOTE_0252,TT&C,,Yes,High,,Nominal
+NOTE_0253,EPS,,Yes,High,,Nominal
+NOTE_0254,System,,Yes,High,,Nominal
+NOTE_0255,System,,Yes,High,,Nominal
+NOTE_0256,EPS,,Yes,High,,Nominal
+NOTE_0257,TT&C,,Yes,High,,Nominal
+NOTE_0258,TT&C,,Yes,High,,Nominal
+NOTE_0259,EPS,,Yes,High,,Nominal
+NOTE_0260,System,,Yes,High,,Nominal
+NOTE_0261,System,,Yes,High,,Nominal
+NOTE_0262,EPS,,Yes,High,,Nominal
+NOTE_0263,TT&C,,Yes,High,,Nominal
+NOTE_0264,TT&C,,Yes,High,,Nominal
+NOTE_0265,EPS,,Yes,High,,Nominal
+NOTE_0266,System,,Yes,High,,Nominal
+NOTE_0267,System,,Yes,High,,Nominal
+NOTE_0268,EPS,,Yes,High,,Nominal
+NOTE_0269,TT&C,,Yes,High,,Nominal
+NOTE_0270,TT&C,,Yes,High,,Nominal
+NOTE_0271,EPS,,Yes,High,,Nominal
+NOTE_0272,System,,Yes,High,,Nominal
+NOTE_0273,System,,Yes,High,,Nominal
+NOTE_0274,EPS,,Yes,High,,Nominal
+NOTE_0275,TT&C,,Yes,High,,Nominal
+NOTE_0276,TT&C,,Yes,High,,Nominal
+NOTE_0277,EPS,,Yes,High,,Nominal
+NOTE_0278,System,,Yes,High,,Nominal
+NOTE_0279,System,,Yes,High,,Nominal
+NOTE_0280,EPS,,Yes,High,,Nominal
+NOTE_0281,TT&C,,Yes,High,,Nominal
+NOTE_0282,TT&C,,Yes,High,,Nominal
+NOTE_0283,EPS,,Yes,High,,Nominal
+NOTE_0284,System,,Yes,High,,Nominal
+NOTE_0285,System,,Yes,High,,Nominal
+NOTE_0286,EPS,,Yes,High,,Nominal
+NOTE_0287,TT&C,,Yes,High,,Nominal
+NOTE_0288,TT&C,,Yes,High,,Nominal
+NOTE_0289,EPS,,Yes,High,,Nominal
+NOTE_0290,System,,Yes,High,,Nominal
+NOTE_0291,System,,Yes,High,,Nominal
+NOTE_0292,EPS,,Yes,High,,Nominal
+NOTE_0293,TT&C,,Yes,High,,Nominal
+NOTE_0294,TT&C,,Yes,High,,Nominal
+NOTE_0295,EPS,,Yes,High,,Nominal
+NOTE_0296,System,,Yes,High,,Nominal
+NOTE_0297,System,,Yes,High,,Nominal
+NOTE_0298,EPS,,Yes,High,,Nominal
+NOTE_0299,TT&C,,Yes,High,,Nominal
+NOTE_0300,TT&C,,Yes,High,,Nominal
+NOTE_0301,EPS,,Yes,High,,Nominal
+NOTE_0302,System,,Yes,High,,Nominal
+NOTE_0303,System,,Yes,High,,Nominal
+NOTE_0304,EPS,,Yes,High,,Nominal
+NOTE_0305,TT&C,,Yes,High,,Nominal
+NOTE_0306,TT&C,,Yes,High,,Nominal
+NOTE_0307,EPS,,Yes,High,,Nominal
+NOTE_0308,System,,Yes,High,,Nominal
+NOTE_0309,System,,Yes,High,,Nominal
+NOTE_0310,EPS,,Yes,High,,Nominal
+NOTE_0311,TT&C,,Yes,High,,Nominal
+NOTE_0312,TT&C,,Yes,High,,Nominal
+NOTE_0313,EPS,,Yes,High,,Nominal
+NOTE_0314,System,,Yes,High,,Nominal
+NOTE_0315,System,,Yes,High,,Nominal
+NOTE_0316,EPS,,Yes,High,,Nominal
+NOTE_0317,TT&C,,Yes,High,,Nominal
+NOTE_0318,TT&C,,Yes,High,,Nominal
+NOTE_0319,EPS,,Yes,High,,Nominal
+NOTE_0320,System,,Yes,High,,Nominal
+NOTE_0321,System,,Yes,High,,Nominal
+NOTE_0322,EPS,,Yes,High,,Nominal
+NOTE_0323,TT&C,,Yes,High,,Nominal
+NOTE_0324,TT&C,,Yes,High,,Nominal
+NOTE_0325,EPS,,Yes,High,,Nominal
+NOTE_0326,System,,Yes,High,,Nominal
+NOTE_0327,System,,Yes,High,,Nominal
+NOTE_0328,EPS,,Yes,High,,Nominal
+NOTE_0329,TT&C,,Yes,High,,Nominal
+NOTE_0330,TT&C,,Yes,High,,Nominal
+NOTE_0331,EPS,,Yes,High,,Nominal
+NOTE_0332,System,,Yes,High,,Nominal
+NOTE_0333,System,,Yes,High,,Nominal
+NOTE_0334,EPS,,Yes,High,,Nominal
+NOTE_0335,TT&C,,Yes,High,,Nominal
+NOTE_0336,TT&C,,Yes,High,,Nominal
+NOTE_0337,EPS,,Yes,High,,Nominal
+NOTE_0338,System,,Yes,High,,Nominal
+NOTE_0339,System,,Yes,High,,Nominal
+NOTE_0340,EPS,,Yes,High,,Nominal
+NOTE_0341,TT&C,,Yes,High,,Nominal
+NOTE_0342,TT&C,,Yes,High,,Nominal
+NOTE_0343,EPS,,Yes,High,,Nominal
+NOTE_0344,System,,Yes,High,,Nominal
+NOTE_0345,System,,Yes,High,,Nominal
+NOTE_0346,EPS,,Yes,High,,Nominal
+NOTE_0347,TT&C,,Yes,High,,Nominal
+NOTE_0348,TT&C,,Yes,High,,Nominal
+NOTE_0349,EPS,,Yes,High,,Nominal
+NOTE_0350,System,,Yes,High,,Nominal
+NOTE_0351,System,,Yes,High,,Nominal
+NOTE_0352,EPS,,Yes,High,,Nominal
+NOTE_0353,TT&C,,Yes,High,,Nominal
+NOTE_0354,TT&C,,Yes,High,,Nominal
+NOTE_0355,EPS,,Yes,High,,Nominal
+NOTE_0356,System,,Yes,High,,Nominal
+NOTE_0357,System,,Yes,High,,Nominal
+NOTE_0358,EPS,,Yes,High,,Nominal
+NOTE_0359,TT&C,,Yes,High,,Nominal
+NOTE_0360,TT&C,,Yes,High,,Nominal
+NOTE_0361,EPS,,Yes,High,,Nominal
+NOTE_0362,System,,Yes,High,,Nominal
+NOTE_0363,System,,Yes,High,,Nominal
+NOTE_0364,EPS,,Yes,High,,Nominal
+NOTE_0365,TT&C,,Yes,High,,Nominal
+NOTE_0366,TT&C,,Yes,High,,Nominal
+NOTE_0367,EPS,,Yes,High,,Nominal
+NOTE_0368,System,,Yes,High,,Nominal
+NOTE_0369,System,,Yes,High,,Nominal
+NOTE_0370,EPS,,Yes,High,,Nominal
+NOTE_0371,TT&C,,Yes,High,,Nominal
+NOTE_0372,TT&C,,Yes,High,,Nominal
+NOTE_0373,EPS,,Yes,High,,Nominal
+NOTE_0374,System,,Yes,High,,Nominal
+NOTE_0375,System,,Yes,High,,Nominal
+NOTE_0376,EPS,,Yes,High,,Nominal
+NOTE_0377,TT&C,,Yes,High,,Nominal
+NOTE_0378,TT&C,,Yes,High,,Nominal
+NOTE_0379,EPS,,Yes,High,,Nominal
+NOTE_0380,System,,Yes,High,,Nominal
+NOTE_0381,System,,Yes,High,,Nominal
+NOTE_0382,EPS,,Yes,High,,Nominal
+NOTE_0383,TT&C,,Yes,High,,Nominal
+NOTE_0384,TT&C,,Yes,High,,Nominal
+NOTE_0385,EPS,,Yes,High,,Nominal
+NOTE_0386,System,,Yes,High,,Nominal
+NOTE_0387,System,,Yes,High,,Nominal
+NOTE_0388,EPS,,Yes,High,,Nominal
+NOTE_0389,TT&C,,Yes,High,,Nominal
+NOTE_0390,TT&C,,Yes,High,,Nominal
+NOTE_0391,EPS,,Yes,High,,Nominal
+NOTE_0392,System,,Yes,High,,Nominal
+NOTE_0393,System,,Yes,High,,Nominal
+NOTE_0394,EPS,,Yes,High,,Nominal
+NOTE_0395,TT&C,,Yes,High,,Nominal
+NOTE_0396,TT&C,,Yes,High,,Nominal
+NOTE_0397,EPS,,Yes,High,,Nominal
+NOTE_0398,System,,Yes,High,,Nominal
+NOTE_0399,System,,Yes,High,,Nominal
+NOTE_0400,EPS,,Yes,High,,Nominal
+NOTE_0401,TT&C,,Yes,High,,Nominal
+NOTE_0402,TT&C,,Yes,High,,Nominal
+NOTE_0403,EPS,,Yes,High,,Nominal
+NOTE_0404,System,,Yes,High,,Nominal
+NOTE_0405,System,,Yes,High,,Nominal
+NOTE_0406,EPS,,Yes,High,,Nominal
+NOTE_0407,TT&C,,Yes,High,,Nominal
+NOTE_0408,TT&C,,Yes,High,,Nominal
+NOTE_0409,EPS,,Yes,High,,Nominal
+NOTE_0410,System,,Yes,High,,Nominal
+NOTE_0411,System,,Yes,High,,Nominal
+NOTE_0412,EPS,,Yes,High,,Nominal
+NOTE_0413,TT&C,,Yes,High,,Nominal
+NOTE_0414,TT&C,,Yes,High,,Nominal
+NOTE_0415,EPS,,Yes,High,,Nominal
+NOTE_0416,System,,Yes,High,,Nominal
+NOTE_0417,System,,Yes,High,,Nominal
+NOTE_0418,EPS,,Yes,High,,Nominal
+NOTE_0419,TT&C,,Yes,High,,Nominal
+NOTE_0420,TT&C,,Yes,High,,Nominal
+NOTE_0421,EPS,,Yes,High,,Nominal
+NOTE_0422,System,,Yes,High,,Nominal
+NOTE_0423,System,,Yes,High,,Nominal
+NOTE_0424,EPS,,Yes,High,,Nominal
+NOTE_0425,TT&C,,Yes,High,,Nominal
+NOTE_0426,TT&C,,Yes,High,,Nominal
+NOTE_0427,EPS,,Yes,High,,Nominal
+NOTE_0428,System,,Yes,High,,Nominal
+NOTE_0429,System,,Yes,High,,Nominal
+NOTE_0430,EPS,,Yes,High,,Nominal
+NOTE_0431,TT&C,,Yes,High,,Nominal
+NOTE_0432,TT&C,,Yes,High,,Nominal
+NOTE_0433,EPS,,Yes,High,,Nominal
+NOTE_0434,System,,Yes,High,,Nominal
+NOTE_0435,System,,Yes,High,,Nominal
+NOTE_0436,EPS,,Yes,High,,Nominal
+NOTE_0437,TT&C,,Yes,High,,Nominal
+NOTE_0438,TT&C,,Yes,High,,Nominal
+NOTE_0439,EPS,,Yes,High,,Nominal
+NOTE_0440,System,,Yes,High,,Nominal
+NOTE_0441,System,,Yes,High,,Nominal
+NOTE_0442,EPS,,Yes,High,,Nominal
+NOTE_0443,TT&C,,Yes,High,,Nominal
+NOTE_0444,TT&C,,Yes,High,,Nominal
+NOTE_0445,EPS,,Yes,High,,Nominal
+NOTE_0446,System,,Yes,High,,Nominal
+NOTE_0447,System,,Yes,High,,Nominal
+NOTE_0448,EPS,,Yes,High,,Nominal
+NOTE_0449,TT&C,,Yes,High,,Nominal
+NOTE_0450,TT&C,,Yes,High,,Nominal
+NOTE_0451,EPS,,Yes,High,,Nominal
+NOTE_0452,System,,Yes,High,,Nominal
+NOTE_0453,System,,Yes,High,,Nominal
+NOTE_0454,EPS,,Yes,High,,Nominal
+NOTE_0455,TT&C,,Yes,High,,Nominal
+NOTE_0456,TT&C,,Yes,High,,Nominal
+NOTE_0457,EPS,,Yes,High,,Nominal
+NOTE_0458,System,,Yes,High,,Nominal
+NOTE_0459,System,,Yes,High,,Nominal
+NOTE_0460,EPS,,Yes,High,,Nominal
+NOTE_0461,TT&C,,Yes,High,,Nominal
+NOTE_0462,TT&C,,Yes,High,,Nominal
+NOTE_0463,EPS,,Yes,High,,Nominal
+NOTE_0464,System,,Yes,High,,Nominal
+NOTE_0465,System,,Yes,High,,Nominal
+NOTE_0466,EPS,,Yes,High,,Nominal
+NOTE_0467,TT&C,,Yes,High,,Nominal
+NOTE_0468,TT&C,,Yes,High,,Nominal
+NOTE_0469,EPS,,Yes,High,,Nominal
+NOTE_0470,System,,Yes,High,,Nominal
+NOTE_0471,System,,Yes,High,,Nominal
+NOTE_0472,EPS,,Yes,High,,Nominal
+NOTE_0473,TT&C,,Yes,High,,Nominal
+NOTE_0474,TT&C,,Yes,High,,Nominal
+NOTE_0475,EPS,,Yes,High,,Nominal
+NOTE_0476,System,,Yes,High,,Nominal
+NOTE_0477,System,,Yes,High,,Nominal
+NOTE_0478,EPS,,Yes,High,,Nominal
+NOTE_0479,TT&C,,Yes,High,,Nominal
+NOTE_0480,TT&C,,Yes,High,,Nominal
+NOTE_0481,EPS,,Yes,High,,Nominal
+NOTE_0482,System,,Yes,High,,Nominal
+NOTE_0483,System,,Yes,High,,Nominal
+NOTE_0484,EPS,,Yes,High,,Nominal
+NOTE_0485,TT&C,,Yes,High,,Nominal
+NOTE_0486,TT&C,,Yes,High,,Nominal
+NOTE_0487,EPS,,Yes,High,,Nominal
+NOTE_0488,System,,Yes,High,,Nominal
+NOTE_0489,System,,Yes,High,,Nominal
+NOTE_0490,EPS,,Yes,High,,Nominal
+NOTE_0491,TT&C,,Yes,High,,Nominal
+NOTE_0492,TT&C,,Yes,High,,Nominal
+NOTE_0493,EPS,,Yes,High,,Nominal
+NOTE_0494,System,,Yes,High,,Nominal
+NOTE_0495,System,,Yes,High,,Nominal
+NOTE_0496,EPS,,Yes,High,,Nominal
+NOTE_0497,TT&C,,Yes,High,,Nominal
+NOTE_0498,TT&C,,Yes,High,,Nominal
+NOTE_0499,EPS,,Yes,High,,Nominal
+NOTE_0500,System,,Yes,High,,Nominal
+NOTE_0501,System,,Yes,High,,Nominal
+NOTE_0502,EPS,,Yes,High,,Nominal
+NOTE_0503,TT&C,,Yes,High,,Nominal
+NOTE_0504,TT&C,,Yes,High,,Nominal
+NOTE_0505,EPS,,Yes,High,,Nominal
+NOTE_0506,System,,Yes,High,,Nominal
+NOTE_0507,System,,Yes,High,,Nominal
+NOTE_0508,EPS,,Yes,High,,Nominal
+NOTE_0509,TT&C,,Yes,High,,Nominal
+NOTE_0510,TT&C,,Yes,High,,Nominal
+NOTE_0511,EPS,,Yes,High,,Nominal
+NOTE_0512,System,,Yes,High,,Nominal
+NOTE_0513,System,,Yes,High,,Nominal
+NOTE_0514,EPS,,Yes,High,,Nominal
+NOTE_0515,TT&C,,Yes,High,,Nominal
+NOTE_0516,TT&C,,Yes,High,,Nominal
+NOTE_0517,EPS,,Yes,High,,Nominal
+NOTE_0518,System,,Yes,High,,Nominal
+NOTE_0519,System,,Yes,High,,Nominal
+NOTE_0520,EPS,,Yes,High,,Nominal
+NOTE_0521,TT&C,,Yes,High,,Nominal
+NOTE_0522,TT&C,,Yes,High,,Nominal
+NOTE_0523,EPS,,Yes,High,,Nominal
+NOTE_0524,System,,Yes,High,,Nominal
+NOTE_0525,System,,Yes,High,,Nominal
+NOTE_0526,EPS,,Yes,High,,Nominal
+NOTE_0527,TT&C,,Yes,High,,Nominal
+NOTE_0528,TT&C,,Yes,High,,Nominal
+NOTE_0529,EPS,,Yes,High,,Nominal
+NOTE_0530,System,,Yes,High,,Nominal
+NOTE_0531,System,,Yes,High,,Nominal
+NOTE_0532,EPS,,Yes,High,,Nominal
+NOTE_0533,TT&C,,Yes,High,,Nominal
+NOTE_0534,TT&C,,Yes,High,,Nominal
+NOTE_0535,EPS,,Yes,High,,Nominal
+NOTE_0536,System,,Yes,High,,Nominal
+NOTE_0537,System,,Yes,High,,Nominal
+NOTE_0538,EPS,,Yes,High,,Nominal
+NOTE_0539,TT&C,,Yes,High,,Nominal
+NOTE_0540,TT&C,,Yes,High,,Nominal
+NOTE_0541,EPS,,Yes,High,,Nominal
+NOTE_0542,System,,Yes,High,,Nominal
+NOTE_0543,System,,Yes,High,,Nominal
+NOTE_0544,EPS,,Yes,High,,Nominal
+NOTE_0545,TT&C,,Yes,High,,Nominal
+NOTE_0546,TT&C,,Yes,High,,Nominal
+NOTE_0547,EPS,,Yes,High,,Nominal
+NOTE_0548,System,,Yes,High,,Nominal
+NOTE_0549,System,,Yes,High,,Nominal
+NOTE_0550,EPS,,Yes,High,,Nominal
+NOTE_0551,TT&C,,Yes,High,,Nominal
+NOTE_0552,TT&C,,Yes,High,,Nominal
+NOTE_0553,EPS,,Yes,High,,Nominal
+NOTE_0554,System,,Yes,High,,Nominal
+NOTE_0555,System,,Yes,High,,Nominal
+NOTE_0556,EPS,,Yes,High,,Nominal
+NOTE_0557,TT&C,,Yes,High,,Nominal
+NOTE_0558,TT&C,,Yes,High,,Nominal
+NOTE_0559,EPS,,Yes,High,,Nominal
+NOTE_0560,System,,Yes,High,,Nominal
+NOTE_0561,System,,Yes,High,,Nominal
+NOTE_0562,EPS,,Yes,High,,Nominal
+NOTE_0563,TT&C,,Yes,High,,Nominal
+NOTE_0564,TT&C,,Yes,High,,Nominal
+NOTE_0565,EPS,,Yes,High,,Nominal
+NOTE_0566,System,,Yes,High,,Nominal
+NOTE_0567,System,,Yes,High,,Nominal
+NOTE_0568,EPS,,Yes,High,,Nominal
+NOTE_0569,TT&C,,Yes,High,,Nominal
+NOTE_0570,TT&C,,Yes,High,,Nominal
+NOTE_0571,EPS,,Yes,High,,Nominal
+NOTE_0572,System,,Yes,High,,Nominal
+NOTE_0573,System,,Yes,High,,Nominal
+NOTE_0574,EPS,,Yes,High,,Nominal
+NOTE_0575,TT&C,,Yes,High,,Nominal
+NOTE_0576,TT&C,,Yes,High,,Nominal
+NOTE_0577,EPS,,Yes,High,,Nominal
+NOTE_0578,System,,Yes,High,,Nominal
+NOTE_0579,System,,Yes,High,,Nominal
+NOTE_0580,EPS,,Yes,High,,Nominal
+NOTE_0581,TT&C,,Yes,High,,Nominal
+NOTE_0582,TT&C,,Yes,High,,Nominal
+NOTE_0583,EPS,,Yes,High,,Nominal
+NOTE_0584,System,,Yes,High,,Nominal
+NOTE_0585,System,,Yes,High,,Nominal
+NOTE_0586,EPS,,Yes,High,,Nominal
+NOTE_0587,TT&C,,Yes,High,,Nominal
+NOTE_0588,TT&C,,Yes,High,,Nominal
+NOTE_0589,EPS,,Yes,High,,Nominal
+NOTE_0590,System,,Yes,High,,Nominal
+NOTE_0591,System,,Yes,High,,Nominal
+NOTE_0592,EPS,,Yes,High,,Nominal
+NOTE_0593,TT&C,,Yes,High,,Nominal
+NOTE_0594,TT&C,,Yes,High,,Nominal
+NOTE_0595,EPS,,Yes,High,,Nominal
+NOTE_0596,System,,Yes,High,,Nominal
+NOTE_0597,System,,Yes,High,,Nominal
+NOTE_0598,EPS,,Yes,High,,Nominal
+NOTE_0599,TT&C,,Yes,High,,Nominal
+NOTE_0600,TT&C,,Yes,High,,Nominal
+NOTE_0601,EPS,,Yes,High,,Nominal
+NOTE_0602,System,,Yes,High,,Nominal
+NOTE_0603,System,,Yes,High,,Nominal
+NOTE_0604,EPS,,Yes,High,,Nominal
+NOTE_0605,TT&C,,Yes,High,,Nominal
+NOTE_0606,TT&C,,Yes,High,,Nominal
+NOTE_0607,EPS,,Yes,High,,Nominal
+NOTE_0608,System,,Yes,High,,Nominal
+NOTE_0609,System,,Yes,High,,Nominal
+NOTE_0610,EPS,,Yes,High,,Nominal
+NOTE_0611,TT&C,,Yes,High,,Nominal
+NOTE_0612,TT&C,,Yes,High,,Nominal
+NOTE_0613,EPS,,Yes,High,,Nominal
+NOTE_0614,System,,Yes,High,,Nominal
+NOTE_0615,System,,Yes,High,,Nominal
+NOTE_0616,EPS,,Yes,High,,Nominal
+NOTE_0617,TT&C,,Yes,High,,Nominal
+NOTE_0618,TT&C,,Yes,High,,Nominal
+NOTE_0619,EPS,,Yes,High,,Nominal
+NOTE_0620,System,,Yes,High,,Nominal
+NOTE_0621,System,,Yes,High,,Nominal
+NOTE_0622,EPS,,Yes,High,,Nominal
+NOTE_0623,TT&C,,Yes,High,,Nominal
+NOTE_0624,TT&C,,Yes,High,,Nominal
+NOTE_0625,EPS,,Yes,High,,Nominal
+NOTE_0626,System,,Yes,High,,Nominal
+NOTE_0627,System,,Yes,High,,Nominal
+NOTE_0628,EPS,,Yes,High,,Nominal
+NOTE_0629,TT&C,,Yes,High,,Nominal
+NOTE_0630,TT&C,,Yes,High,,Nominal
+NOTE_0631,EPS,,Yes,High,,Nominal
+NOTE_0632,System,,Yes,High,,Nominal
+NOTE_0633,System,,Yes,High,,Nominal
+NOTE_0634,EPS,,Yes,High,,Nominal
+NOTE_0635,TT&C,,Yes,High,,Nominal
+NOTE_0636,TT&C,,Yes,High,,Nominal
+NOTE_0637,EPS,,Yes,High,,Nominal
+NOTE_0638,System,,Yes,High,,Nominal
+NOTE_0639,System,,Yes,High,,Nominal
+NOTE_0640,EPS,,Yes,High,,Nominal
+NOTE_0641,TT&C,,Yes,High,,Nominal
+NOTE_0642,TT&C,,Yes,High,,Nominal
+NOTE_0643,EPS,,Yes,High,,Nominal
+NOTE_0644,System,,Yes,High,,Nominal
+NOTE_0645,System,,Yes,High,,Nominal
+NOTE_0646,EPS,,Yes,High,,Nominal
+NOTE_0647,TT&C,,Yes,High,,Nominal
+NOTE_0648,TT&C,,Yes,High,,Nominal
+NOTE_0649,EPS,,Yes,High,,Nominal
+NOTE_0650,System,,Yes,High,,Nominal
+NOTE_0651,System,,Yes,High,,Nominal
+NOTE_0652,EPS,,Yes,High,,Nominal
+NOTE_0653,TT&C,,Yes,High,,Nominal
+NOTE_0654,TT&C,,Yes,High,,Nominal
+NOTE_0655,EPS,,Yes,High,,Nominal
+NOTE_0656,System,,Yes,High,,Nominal
+NOTE_0657,System,,Yes,High,,Nominal
+NOTE_0658,EPS,,Yes,High,,Nominal
+NOTE_0659,TT&C,,Yes,High,,Nominal
+NOTE_0660,TT&C,,Yes,High,,Nominal
+NOTE_0661,EPS,,Yes,High,,Nominal
+NOTE_0662,System,,Yes,High,,Nominal
+NOTE_0663,System,,Yes,High,,Nominal
+NOTE_0664,EPS,,Yes,High,,Nominal
+NOTE_0665,TT&C,,Yes,High,,Nominal
+NOTE_0666,TT&C,,Yes,High,,Nominal
+NOTE_0667,EPS,,Yes,High,,Nominal
+NOTE_0668,System,,Yes,High,,Nominal
+NOTE_0669,System,,Yes,High,,Nominal
+NOTE_0670,EPS,,Yes,High,,Nominal
+NOTE_0671,TT&C,,Yes,High,,Nominal
+NOTE_0672,TT&C,,Yes,High,,Nominal
+NOTE_0673,EPS,,Yes,High,,Nominal
+NOTE_0674,System,,Yes,High,,Nominal
+NOTE_0675,System,,Yes,High,,Nominal
+NOTE_0676,EPS,,Yes,High,,Nominal
+NOTE_0677,TT&C,,Yes,High,,Nominal
+NOTE_0678,TT&C,,Yes,High,,Nominal
+NOTE_0679,EPS,,Yes,High,,Nominal
+NOTE_0680,System,,Yes,High,,Nominal
+NOTE_0681,System,,Yes,High,,Nominal
+NOTE_0682,EPS,,Yes,High,,Nominal
+NOTE_0683,TT&C,,Yes,High,,Nominal
+NOTE_0684,TT&C,,Yes,High,,Nominal
+NOTE_0685,EPS,,Yes,High,,Nominal
+NOTE_0686,System,,Yes,High,,Nominal
+NOTE_0687,System,,Yes,High,,Nominal
+NOTE_0688,EPS,,Yes,High,,Nominal
+NOTE_0689,TT&C,,Yes,High,,Nominal
+NOTE_0690,TT&C,,Yes,High,,Nominal
+NOTE_0691,EPS,,Yes,High,,Nominal
+NOTE_0692,System,,Yes,High,,Nominal
+NOTE_0693,System,,Yes,High,,Nominal
+NOTE_0694,EPS,,Yes,High,,Nominal
+NOTE_0695,TT&C,,Yes,High,,Nominal
+NOTE_0696,TT&C,,Yes,High,,Nominal
+NOTE_0697,EPS,,Yes,High,,Nominal
+NOTE_0698,System,,Yes,High,,Nominal
+NOTE_0699,System,,Yes,High,,Nominal
+NOTE_0700,EPS,,Yes,High,,Nominal
+NOTE_0701,TT&C,,Yes,High,,Nominal
+NOTE_0702,TT&C,,Yes,High,,Nominal
+NOTE_0703,EPS,,Yes,High,,Nominal
+NOTE_0704,System,,Yes,High,,Nominal
+NOTE_0705,System,,Yes,High,,Nominal
+NOTE_0706,EPS,,Yes,High,,Nominal
+NOTE_0707,TT&C,,Yes,High,,Nominal
+NOTE_0708,TT&C,,Yes,High,,Nominal
+NOTE_0709,EPS,,Yes,High,,Nominal
+NOTE_0710,System,,Yes,High,,Nominal
+NOTE_0711,System,,Yes,High,,Nominal
+NOTE_0712,EPS,,Yes,High,,Nominal
+NOTE_0713,TT&C,,Yes,High,,Nominal
+NOTE_0714,TT&C,,Yes,High,,Nominal
+NOTE_0715,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0716,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0717,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0718,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0719,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0720,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0721,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0722,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0723,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0724,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0725,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0726,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0727,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0728,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0729,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0730,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0731,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0732,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0733,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0734,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0735,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0736,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0737,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0738,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0739,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0740,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0741,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0742,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0743,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0744,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0745,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0746,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0747,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0748,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0749,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0750,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0751,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0752,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0753,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0754,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0755,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0756,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0757,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0758,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0759,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0760,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0761,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0762,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0763,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0764,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0765,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0766,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0767,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0768,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0769,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0770,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0771,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0772,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0773,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0774,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0775,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0776,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0777,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0778,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0779,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0780,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0781,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0782,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0783,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0784,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0785,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0786,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0787,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0788,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0789,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0790,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0791,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0792,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0793,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0794,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0795,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0796,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0797,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0798,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0799,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0800,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0801,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0802,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0803,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0804,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0805,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0806,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0807,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0808,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0809,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0810,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0811,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0812,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0813,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0814,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0815,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0816,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0817,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0818,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0819,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0820,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0821,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0822,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0823,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0824,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0825,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0826,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0827,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0828,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0829,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0830,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0831,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0832,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0833,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0834,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0835,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0836,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0837,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0838,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0839,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0840,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0841,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0842,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0843,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0844,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0845,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0846,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0847,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0848,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0849,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0850,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0851,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0852,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0853,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0854,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0855,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0856,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0857,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0858,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0859,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0860,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0861,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0862,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0863,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0864,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0865,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0866,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0867,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0868,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0869,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0870,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0871,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0872,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0873,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0874,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0875,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0876,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0877,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0878,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0879,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0880,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0881,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0882,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0883,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0884,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0885,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0886,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0887,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0888,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0889,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0890,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0891,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0892,System,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0893,EPS,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0894,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0895,TT&C,Battery Capacity Fade,No,High,Recommend Engineering Review,Medium
+NOTE_0896,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0897,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0898,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0899,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0900,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0901,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0902,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0903,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0904,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0905,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0906,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0907,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0908,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0909,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0910,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0911,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0912,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0913,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0914,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0915,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0916,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0917,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0918,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0919,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0920,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0921,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0922,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0923,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0924,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0925,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0926,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0927,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0928,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0929,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0930,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0931,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0932,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0933,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0934,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0935,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0936,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0937,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0938,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0939,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0940,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0941,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0942,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0943,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0944,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0945,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0946,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0947,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0948,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0949,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0950,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0951,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0952,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0953,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0954,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0955,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0956,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0957,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0958,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0959,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0960,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0961,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0962,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0963,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0964,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0965,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0966,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0967,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0968,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0969,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0970,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0971,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0972,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0973,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0974,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0975,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0976,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0977,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0978,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0979,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0980,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0981,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0982,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0983,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0984,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0985,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0986,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0987,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0988,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0989,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0990,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0991,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0992,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0993,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0994,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0995,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0996,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0997,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0998,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_0999,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1000,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1001,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1002,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1003,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1004,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1005,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1006,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1007,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1008,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1009,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1010,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1011,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1012,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1013,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1014,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1015,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1016,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1017,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1018,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1019,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1020,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1021,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1022,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1023,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1024,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1025,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1026,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1027,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1028,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1029,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1030,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1031,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1032,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1033,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1034,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1035,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1036,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1037,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1038,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1039,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1040,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1041,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1042,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1043,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1044,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1045,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1046,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1047,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1048,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1049,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1050,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1051,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1052,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1053,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1054,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1055,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1056,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1057,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1058,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1059,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1060,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1061,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1062,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1063,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1064,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1065,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1066,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1067,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1068,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1069,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1070,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1071,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1072,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1073,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1074,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1075,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1076,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1077,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1078,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1079,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1080,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1081,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1082,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1083,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1084,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1085,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1086,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1087,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1088,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1089,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1090,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1091,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1092,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1093,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1094,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1095,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1096,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1097,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1098,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1099,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1100,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1101,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1102,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1103,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1104,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1105,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1106,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1107,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1108,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1109,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1110,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1111,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1112,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1113,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1114,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1115,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1116,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1117,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1118,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1119,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1120,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1121,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1122,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1123,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1124,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1125,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1126,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1127,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1128,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1129,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1130,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1131,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1132,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1133,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1134,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1135,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1136,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1137,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1138,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1139,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1140,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1141,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1142,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1143,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1144,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1145,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1146,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1147,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1148,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1149,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1150,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1151,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1152,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1153,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1154,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1155,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1156,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1157,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1158,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1159,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1160,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1161,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1162,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1163,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1164,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1165,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1166,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1167,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1168,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1169,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1170,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1171,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1172,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1173,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1174,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1175,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1176,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1177,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1178,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1179,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1180,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1181,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1182,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1183,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1184,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1185,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1186,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1187,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1188,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1189,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1190,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1191,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1192,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1193,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1194,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1195,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1196,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1197,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1198,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1199,System,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1200,EPS,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1201,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1202,TT&C,Battery Cell Imbalance,No,High,Recommend Engineering Review,Medium
+NOTE_1203,EPS,,Yes,High,,Nominal
+NOTE_1204,System,,Yes,High,,Nominal
+NOTE_1205,System,,Yes,High,,Nominal
+NOTE_1206,EPS,,Yes,High,,Nominal
+NOTE_1207,TT&C,,Yes,High,,Nominal
+NOTE_1208,TT&C,,Yes,High,,Nominal
+NOTE_1209,EPS,,Yes,High,,Nominal
+NOTE_1210,System,,Yes,High,,Nominal
+NOTE_1211,System,,Yes,High,,Nominal
+NOTE_1212,EPS,,Yes,High,,Nominal
+NOTE_1213,TT&C,,Yes,High,,Nominal
+NOTE_1214,TT&C,,Yes,High,,Nominal
+NOTE_1215,EPS,,Yes,High,,Nominal
+NOTE_1216,System,,Yes,High,,Nominal
+NOTE_1217,System,,Yes,High,,Nominal
+NOTE_1218,EPS,,Yes,High,,Nominal
+NOTE_1219,TT&C,,Yes,High,,Nominal
+NOTE_1220,TT&C,,Yes,High,,Nominal
+NOTE_1221,EPS,,Yes,High,,Nominal
+NOTE_1222,System,,Yes,High,,Nominal
+NOTE_1223,System,,Yes,High,,Nominal
+NOTE_1224,EPS,,Yes,High,,Nominal
+NOTE_1225,TT&C,,Yes,High,,Nominal
+NOTE_1226,TT&C,,Yes,High,,Nominal
+NOTE_1227,EPS,,Yes,High,,Nominal
+NOTE_1228,System,,Yes,High,,Nominal
+NOTE_1229,System,,Yes,High,,Nominal
+NOTE_1230,EPS,,Yes,High,,Nominal
+NOTE_1231,TT&C,,Yes,High,,Nominal
+NOTE_1232,TT&C,,Yes,High,,Nominal
+NOTE_1233,EPS,,Yes,High,,Nominal
+NOTE_1234,System,,Yes,High,,Nominal
+NOTE_1235,System,,Yes,High,,Nominal
+NOTE_1236,EPS,,Yes,High,,Nominal
+NOTE_1237,TT&C,,Yes,High,,Nominal
+NOTE_1238,TT&C,,Yes,High,,Nominal
+NOTE_1239,EPS,,Yes,High,,Nominal
+NOTE_1240,System,,Yes,High,,Nominal
+NOTE_1241,System,,Yes,High,,Nominal
+NOTE_1242,EPS,,Yes,High,,Nominal
+NOTE_1243,TT&C,,Yes,High,,Nominal
+NOTE_1244,TT&C,,Yes,High,,Nominal
+NOTE_1245,EPS,,Yes,High,,Nominal
+NOTE_1246,System,,Yes,High,,Nominal
+NOTE_1247,System,,Yes,High,,Nominal
+NOTE_1248,EPS,,Yes,High,,Nominal
+NOTE_1249,TT&C,,Yes,High,,Nominal
+NOTE_1250,TT&C,,Yes,High,,Nominal
+NOTE_1251,EPS,,Yes,High,,Nominal
+NOTE_1252,System,,Yes,High,,Nominal
+NOTE_1253,System,,Yes,High,,Nominal
+NOTE_1254,EPS,,Yes,High,,Nominal
+NOTE_1255,TT&C,,Yes,High,,Nominal
+NOTE_1256,TT&C,,Yes,High,,Nominal
+NOTE_1257,EPS,,Yes,High,,Nominal
+NOTE_1258,System,,Yes,High,,Nominal
+NOTE_1259,System,,Yes,High,,Nominal
+NOTE_1260,EPS,,Yes,High,,Nominal
+NOTE_1261,TT&C,,Yes,High,,Nominal
+NOTE_1262,TT&C,,Yes,High,,Nominal
+NOTE_1263,EPS,,Yes,High,,Nominal
+NOTE_1264,System,,Yes,High,,Nominal
+NOTE_1265,System,,Yes,High,,Nominal
+NOTE_1266,EPS,,Yes,High,,Nominal
+NOTE_1267,TT&C,,Yes,High,,Nominal
+NOTE_1268,TT&C,,Yes,High,,Nominal
+NOTE_1269,EPS,,Yes,High,,Nominal
+NOTE_1270,System,,Yes,High,,Nominal
+NOTE_1271,System,,Yes,High,,Nominal
+NOTE_1272,EPS,,Yes,High,,Nominal
+NOTE_1273,TT&C,,Yes,High,,Nominal
+NOTE_1274,TT&C,,Yes,High,,Nominal
+NOTE_1275,EPS,,Yes,High,,Nominal
+NOTE_1276,System,,Yes,High,,Nominal
+NOTE_1277,System,,Yes,High,,Nominal
+NOTE_1278,EPS,,Yes,High,,Nominal
+NOTE_1279,TT&C,,Yes,High,,Nominal
+NOTE_1280,TT&C,,Yes,High,,Nominal
+NOTE_1281,EPS,,Yes,High,,Nominal
+NOTE_1282,System,,Yes,High,,Nominal
+NOTE_1283,System,,Yes,High,,Nominal
+NOTE_1284,EPS,,Yes,High,,Nominal
+NOTE_1285,TT&C,,Yes,High,,Nominal
+NOTE_1286,TT&C,,Yes,High,,Nominal
+NOTE_1287,EPS,,Yes,High,,Nominal
+NOTE_1288,System,,Yes,High,,Nominal
+NOTE_1289,System,,Yes,High,,Nominal
+NOTE_1290,EPS,,Yes,High,,Nominal
+NOTE_1291,TT&C,,Yes,High,,Nominal
+NOTE_1292,TT&C,,Yes,High,,Nominal
+NOTE_1293,EPS,,Yes,High,,Nominal
+NOTE_1294,System,,Yes,High,,Nominal
+NOTE_1295,System,,Yes,High,,Nominal
+NOTE_1296,EPS,,Yes,High,,Nominal
+NOTE_1297,TT&C,,Yes,High,,Nominal
+NOTE_1298,TT&C,,Yes,High,,Nominal
+NOTE_1299,EPS,,Yes,High,,Nominal
+NOTE_1300,System,,Yes,High,,Nominal
+NOTE_1301,System,,Yes,High,,Nominal
+NOTE_1302,EPS,,Yes,High,,Nominal
+NOTE_1303,TT&C,,Yes,High,,Nominal
+NOTE_1304,TT&C,,Yes,High,,Nominal
+NOTE_1305,EPS,,Yes,High,,Nominal
+NOTE_1306,System,,Yes,High,,Nominal
+NOTE_1307,System,,Yes,High,,Nominal
+NOTE_1308,EPS,,Yes,High,,Nominal
+NOTE_1309,TT&C,,Yes,High,,Nominal
+NOTE_1310,TT&C,,Yes,High,,Nominal
+NOTE_1311,EPS,,Yes,High,,Nominal
+NOTE_1312,System,,Yes,High,,Nominal
+NOTE_1313,System,,Yes,High,,Nominal
+NOTE_1314,EPS,,Yes,High,,Nominal
+NOTE_1315,TT&C,,Yes,High,,Nominal
+NOTE_1316,TT&C,,Yes,High,,Nominal
+NOTE_1317,EPS,,Yes,High,,Nominal
+NOTE_1318,System,,Yes,High,,Nominal
+NOTE_1319,System,,Yes,High,,Nominal
+NOTE_1320,EPS,,Yes,High,,Nominal
+NOTE_1321,TT&C,,Yes,High,,Nominal
+NOTE_1322,TT&C,,Yes,High,,Nominal
+NOTE_1323,EPS,,Yes,High,,Nominal
+NOTE_1324,System,,Yes,High,,Nominal
+NOTE_1325,System,,Yes,High,,Nominal
+NOTE_1326,EPS,,Yes,High,,Nominal
+NOTE_1327,TT&C,,Yes,High,,Nominal
+NOTE_1328,TT&C,,Yes,High,,Nominal
+NOTE_1329,EPS,,Yes,High,,Nominal
+NOTE_1330,System,,Yes,High,,Nominal
+NOTE_1331,System,,Yes,High,,Nominal
+NOTE_1332,EPS,,Yes,High,,Nominal
+NOTE_1333,TT&C,,Yes,High,,Nominal
+NOTE_1334,TT&C,,Yes,High,,Nominal
+NOTE_1335,EPS,,Yes,High,,Nominal
+NOTE_1336,System,,Yes,High,,Nominal
+NOTE_1337,System,,Yes,High,,Nominal
+NOTE_1338,EPS,,Yes,High,,Nominal
+NOTE_1339,TT&C,,Yes,High,,Nominal
+NOTE_1340,TT&C,,Yes,High,,Nominal
+NOTE_1341,EPS,,Yes,High,,Nominal
+NOTE_1342,System,,Yes,High,,Nominal
+NOTE_1343,System,,Yes,High,,Nominal
+NOTE_1344,EPS,,Yes,High,,Nominal
+NOTE_1345,TT&C,,Yes,High,,Nominal
+NOTE_1346,TT&C,,Yes,High,,Nominal
+NOTE_1347,EPS,,Yes,High,,Nominal
+NOTE_1348,System,,Yes,High,,Nominal
+NOTE_1349,System,,Yes,High,,Nominal
+NOTE_1350,EPS,,Yes,High,,Nominal
+NOTE_1351,TT&C,,Yes,High,,Nominal
+NOTE_1352,TT&C,,Yes,High,,Nominal
+NOTE_1353,EPS,,Yes,High,,Nominal
+NOTE_1354,System,,Yes,High,,Nominal
+NOTE_1355,System,,Yes,High,,Nominal
+NOTE_1356,EPS,,Yes,High,,Nominal
+NOTE_1357,TT&C,,Yes,High,,Nominal
+NOTE_1358,TT&C,,Yes,High,,Nominal
+NOTE_1359,EPS,,Yes,High,,Nominal
+NOTE_1360,System,,Yes,High,,Nominal
+NOTE_1361,System,,Yes,High,,Nominal
+NOTE_1362,EPS,,Yes,High,,Nominal
+NOTE_1363,TT&C,,Yes,High,,Nominal
+NOTE_1364,TT&C,,Yes,High,,Nominal
+NOTE_1365,EPS,,Yes,High,,Nominal
+NOTE_1366,System,,Yes,High,,Nominal
+NOTE_1367,System,,Yes,High,,Nominal
+NOTE_1368,EPS,,Yes,High,,Nominal
+NOTE_1369,TT&C,,Yes,High,,Nominal
+NOTE_1370,TT&C,,Yes,High,,Nominal
+NOTE_1371,EPS,,Yes,High,,Nominal
+NOTE_1372,System,,Yes,High,,Nominal
+NOTE_1373,System,,Yes,High,,Nominal
+NOTE_1374,EPS,,Yes,High,,Nominal
+NOTE_1375,TT&C,,Yes,High,,Nominal
+NOTE_1376,TT&C,,Yes,High,,Nominal
+NOTE_1377,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1378,EPS,Central Cooling Pump Failure,No,High,Monitor,Medium
+NOTE_1379,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1380,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1381,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1382,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1383,TT&C,None,Yes,Medium,None,Nominal
+NOTE_1384,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1385,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1386,System,None,Yes,High,None,Nominal
+NOTE_1387,EPS,Central Cooling Pump Failure,Unknown,Medium,Monitor,Medium
+NOTE_1388,TCS,Central Cooling Pump Failure,No,Medium,Recommend Engineering Review,High
+NOTE_1389,TT&C,Central Cooling Pump Failure,No,High,Monitor,Medium
+NOTE_1390,EPS,None,No,High,Monitor,Medium
+NOTE_1391,TCS,Central Cooling Pump Failure,No,High,Disable transmitter,Critical
+NOTE_1392,System,None,Yes,High,None,Nominal
+NOTE_1393,EPS,None,No,Medium,Monitor,Medium
+NOTE_1394,TCS,None,Unknown,Medium,Monitor,Medium
+NOTE_1395,EPS,None,Yes,High,None,Nominal
+NOTE_1396,EPS,Central Cooling Pump Failure,No,High,Enter safe mode,Critical
+NOTE_1397,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1398,System,Central Cooling Pump Failure,No,High,Monitor,Medium
+NOTE_1399,ADCS,None,No,High,Monitor,Medium
+NOTE_1400,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1401,TT&C,None,Yes,High,None,Nominal
+NOTE_1402,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1403,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1404,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1405,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1406,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1407,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1408,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1409,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1410,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1411,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1412,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1413,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1414,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1415,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1416,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1417,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1418,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1419,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1420,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1421,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1422,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1423,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1424,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1425,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1426,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1427,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1428,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1429,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1430,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1431,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1432,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1433,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1434,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1435,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1436,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1437,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1438,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1439,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1440,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1441,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1442,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1443,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1444,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1445,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1446,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1447,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1448,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1449,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1450,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1451,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1452,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1453,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1454,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1455,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1456,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1457,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1458,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1459,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1460,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1461,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1462,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1463,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1464,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1465,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1466,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1467,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1468,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1469,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1470,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1471,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1472,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1473,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1474,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1475,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1476,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1477,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1478,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1479,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1480,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1481,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1482,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1483,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1484,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1485,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1486,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1487,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1488,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1489,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1490,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1491,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1492,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1493,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1494,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1495,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1496,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1497,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1498,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1499,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1500,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1501,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1502,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1503,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1504,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1505,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1506,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1507,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1508,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1509,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1510,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1511,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1512,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1513,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1514,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1515,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1516,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1517,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1518,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1519,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1520,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1521,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1522,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1523,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1524,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1525,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1526,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1527,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1528,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1529,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1530,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1531,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1532,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1533,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1534,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1535,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1536,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1537,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1538,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1539,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1540,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1541,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1542,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1543,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1544,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1545,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1546,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1547,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1548,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1549,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1550,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1551,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1552,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1553,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1554,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1555,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1556,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1557,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1558,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1559,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1560,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1561,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1562,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1563,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1564,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1565,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1566,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1567,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1568,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1569,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1570,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1571,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1572,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1573,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1574,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1575,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1576,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1577,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1578,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1579,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1580,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1581,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1582,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1583,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1584,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1585,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1586,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1587,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1588,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1589,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1590,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1591,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1592,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1593,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1594,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1595,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1596,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1597,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1598,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1599,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1600,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1601,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1602,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1603,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1604,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1605,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1606,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1607,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1608,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1609,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1610,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1611,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1612,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1613,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1614,System,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1615,EPS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1616,TCS,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1617,TT&C,Central Cooling Pump Failure,No,High,Recommend Engineering Review,High
+NOTE_1618,TCS,Battery Thermal Runaway Combustion,No,High,Command Safe Mode,Critical
+NOTE_1619,EPS,,No,High,,Nominal
+NOTE_1620,System,Battery Cell Melt Power Loss,No,High,Recommend Engineering Review,Critical
+NOTE_1621,EPS,,Yes,High,,Nominal
+NOTE_1622,System,,Yes,High,,Nominal
+NOTE_1623,System,,Yes,High,,Nominal
+NOTE_1624,EPS,,Yes,High,,Nominal
+NOTE_1625,TT&C,,Yes,High,,Nominal
+NOTE_1626,TT&C,,Yes,High,,Nominal
+NOTE_1627,EPS,,Yes,High,,Nominal
+NOTE_1628,System,,Yes,High,,Nominal
+NOTE_1629,System,,Yes,High,,Nominal
+NOTE_1630,EPS,,Yes,High,,Nominal
+NOTE_1631,TT&C,,Yes,High,,Nominal
+NOTE_1632,TT&C,,Yes,High,,Nominal
+NOTE_1633,EPS,,Yes,High,,Nominal
+NOTE_1634,System,,Yes,High,,Nominal
+NOTE_1635,System,,Yes,High,,Nominal
+NOTE_1636,EPS,,Yes,High,,Nominal
+NOTE_1637,TT&C,,Yes,High,,Nominal
+NOTE_1638,TT&C,,Yes,High,,Nominal
+NOTE_1639,EPS,,Yes,High,,Nominal
+NOTE_1640,System,,Yes,High,,Nominal
+NOTE_1641,System,,Yes,High,,Nominal
+NOTE_1642,EPS,,Yes,High,,Nominal
+NOTE_1643,TT&C,,Yes,High,,Nominal
+NOTE_1644,TT&C,,Yes,High,,Nominal
+NOTE_1645,EPS,,Yes,High,,Nominal
+NOTE_1646,System,,Yes,High,,Nominal
+NOTE_1647,System,,Yes,High,,Nominal
+NOTE_1648,EPS,,Yes,High,,Nominal
+NOTE_1649,TT&C,,Yes,High,,Nominal
+NOTE_1650,TT&C,,Yes,High,,Nominal
+NOTE_1651,EPS,,Yes,High,,Nominal
+NOTE_1652,System,,Yes,High,,Nominal
+NOTE_1653,System,,Yes,High,,Nominal
+NOTE_1654,EPS,,Yes,High,,Nominal
+NOTE_1655,TT&C,,Yes,High,,Nominal
+NOTE_1656,TT&C,,Yes,High,,Nominal
+NOTE_1657,EPS,,Yes,High,,Nominal
+NOTE_1658,System,,Yes,High,,Nominal
+NOTE_1659,System,,Yes,High,,Nominal
+NOTE_1660,EPS,,Yes,High,,Nominal
+NOTE_1661,TT&C,,Yes,High,,Nominal
+NOTE_1662,TT&C,,Yes,High,,Nominal
+NOTE_1663,EPS,,Yes,High,,Nominal
+NOTE_1664,System,,Yes,High,,Nominal
+NOTE_1665,System,,Yes,High,,Nominal
+NOTE_1666,EPS,,Yes,High,,Nominal
+NOTE_1667,TT&C,,Yes,High,,Nominal
+NOTE_1668,TT&C,,Yes,High,,Nominal
+NOTE_1669,EPS,,Yes,High,,Nominal
+NOTE_1670,System,,Yes,High,,Nominal
+NOTE_1671,System,,Yes,High,,Nominal
+NOTE_1672,EPS,,Yes,High,,Nominal
+NOTE_1673,TT&C,,Yes,High,,Nominal
+NOTE_1674,TT&C,,Yes,High,,Nominal
+NOTE_1675,EPS,,Yes,High,,Nominal
+NOTE_1676,System,,Yes,High,,Nominal
+NOTE_1677,System,,Yes,High,,Nominal
+NOTE_1678,EPS,,Yes,High,,Nominal
+NOTE_1679,TT&C,,Yes,High,,Nominal
+NOTE_1680,TT&C,,Yes,High,,Nominal
+NOTE_1681,EPS,,Yes,High,,Nominal
+NOTE_1682,System,,Yes,High,,Nominal
+NOTE_1683,System,,Yes,High,,Nominal
+NOTE_1684,EPS,,Yes,High,,Nominal
+NOTE_1685,TT&C,,Yes,High,,Nominal
+NOTE_1686,TT&C,,Yes,High,,Nominal
+NOTE_1687,EPS,,Yes,High,,Nominal
+NOTE_1688,System,,Yes,High,,Nominal
+NOTE_1689,System,,Yes,High,,Nominal
+NOTE_1690,EPS,,Yes,High,,Nominal
+NOTE_1691,TT&C,,Yes,High,,Nominal
+NOTE_1692,TT&C,,Yes,High,,Nominal
+NOTE_1693,EPS,,Yes,High,,Nominal
+NOTE_1694,System,,Yes,High,,Nominal
+NOTE_1695,System,,Yes,High,,Nominal
+NOTE_1696,EPS,,Yes,High,,Nominal
+NOTE_1697,TT&C,,Yes,High,,Nominal
+NOTE_1698,TT&C,,Yes,High,,Nominal
+NOTE_1699,EPS,,Yes,High,,Nominal
+NOTE_1700,System,,Yes,High,,Nominal
+NOTE_1701,System,,Yes,High,,Nominal
+NOTE_1702,EPS,,Yes,High,,Nominal
+NOTE_1703,TT&C,,Yes,High,,Nominal
+NOTE_1704,TT&C,,Yes,High,,Nominal
+NOTE_1705,TT&C,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1706,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1707,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1708,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1709,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1710,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1711,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1712,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1713,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1714,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1715,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1716,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1717,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1718,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1719,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1720,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1721,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1722,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1723,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1724,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1725,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1726,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1727,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1728,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1729,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1730,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1731,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1732,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1733,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1734,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1735,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1736,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1737,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1738,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1739,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1740,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1741,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1742,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1743,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1744,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1745,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1746,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1747,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1748,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1749,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1750,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1751,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1752,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1753,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1754,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1755,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1756,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1757,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1758,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1759,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1760,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1761,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1762,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1763,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1764,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1765,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1766,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1767,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1768,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1769,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1770,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1771,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1772,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1773,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1774,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1775,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1776,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1777,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1778,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1779,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1780,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1781,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1782,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1783,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1784,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1785,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1786,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1787,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1788,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1789,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1790,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1791,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1792,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1793,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1794,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1795,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1796,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1797,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1798,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1799,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1800,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1801,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1802,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1803,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1804,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1805,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1806,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1807,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1808,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1809,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1810,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1811,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1812,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1813,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1814,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1815,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1816,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1817,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1818,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1819,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1820,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1821,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1822,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1823,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1824,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1825,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1826,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1827,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1828,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1829,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1830,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1831,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1832,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1833,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1834,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1835,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1836,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1837,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1838,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1839,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1840,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1841,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1842,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1843,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1844,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1845,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1846,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1847,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1848,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1849,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1850,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1851,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1852,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1853,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1854,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1855,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1856,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1857,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1858,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1859,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1860,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1861,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1862,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1863,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1864,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1865,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1866,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1867,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1868,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1869,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1870,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1871,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1872,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1873,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1874,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1875,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1876,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1877,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1878,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1879,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1880,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1881,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1882,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1883,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1884,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1885,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1886,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1887,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1888,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1889,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1890,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1891,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1892,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1893,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1894,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1895,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1896,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1897,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1898,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1899,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1900,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1901,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1902,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1903,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1904,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1905,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1906,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1907,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1908,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1909,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1910,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1911,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1912,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1913,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1914,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1915,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1916,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1917,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1918,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1919,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1920,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1921,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1922,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1923,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1924,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1925,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1926,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1927,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1928,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1929,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1930,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1931,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1932,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1933,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1934,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1935,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1936,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1937,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1938,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1939,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1940,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1941,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1942,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1943,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1944,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1945,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1946,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1947,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1948,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1949,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1950,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1951,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1952,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1953,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1954,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1955,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1956,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1957,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1958,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1959,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1960,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1961,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1962,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1963,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1964,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1965,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1966,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1967,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1968,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1969,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1970,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1971,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1972,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1973,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1974,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1975,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1976,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1977,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1978,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1979,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1980,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1981,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1982,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1983,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1984,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1985,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1986,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1987,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1988,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1989,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1990,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1991,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1992,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1993,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1994,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1995,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1996,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1997,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1998,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_1999,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2000,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2001,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2002,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2003,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2004,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2005,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2006,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2007,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2008,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2009,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2010,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2011,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2012,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2013,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2014,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2015,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2016,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2017,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2018,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2019,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2020,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2021,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2022,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2023,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2024,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2025,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2026,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2027,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2028,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2029,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2030,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2031,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2032,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2033,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2034,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2035,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2036,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2037,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2038,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2039,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2040,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2041,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2042,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2043,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2044,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2045,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2046,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2047,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2048,System,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2049,EPS,S-Band Link Failure,No,High,Recommend Engineering Review,High
+NOTE_2050,EPS,,Yes,High,,Nominal
+NOTE_2051,System,,Yes,High,,Nominal
+NOTE_2052,System,,Yes,High,,Nominal
+NOTE_2053,EPS,,Yes,High,,Nominal
+NOTE_2054,TT&C,,Yes,High,,Nominal
+NOTE_2055,TT&C,,Yes,High,,Nominal
+NOTE_2056,EPS,,Yes,High,,Nominal
+NOTE_2057,System,,Yes,High,,Nominal
+NOTE_2058,System,,Yes,High,,Nominal
+NOTE_2059,EPS,,Yes,High,,Nominal
+NOTE_2060,TT&C,,Yes,High,,Nominal
+NOTE_2061,TT&C,,Yes,High,,Nominal
+NOTE_2062,EPS,,Yes,High,,Nominal
+NOTE_2063,System,,Yes,High,,Nominal
+NOTE_2064,System,,Yes,High,,Nominal
+NOTE_2065,EPS,,Yes,High,,Nominal
+NOTE_2066,TT&C,,Yes,High,,Nominal
+NOTE_2067,TT&C,,Yes,High,,Nominal
+NOTE_2068,EPS,,Yes,High,,Nominal
+NOTE_2069,System,,Yes,High,,Nominal
+NOTE_2070,System,,Yes,High,,Nominal
+NOTE_2071,EPS,,Yes,High,,Nominal
+NOTE_2072,TT&C,,Yes,High,,Nominal
+NOTE_2073,TT&C,,Yes,High,,Nominal
+NOTE_2074,EPS,,Yes,High,,Nominal
+NOTE_2075,System,,Yes,High,,Nominal
+NOTE_2076,System,,Yes,High,,Nominal
+NOTE_2077,EPS,,Yes,High,,Nominal
+NOTE_2078,TT&C,,Yes,High,,Nominal
+NOTE_2079,TT&C,,Yes,High,,Nominal
+NOTE_2080,EPS,,Yes,High,,Nominal
+NOTE_2081,System,,Yes,High,,Nominal
+NOTE_2082,System,,Yes,High,,Nominal
+NOTE_2083,EPS,,Yes,High,,Nominal
+NOTE_2084,TT&C,,Yes,High,,Nominal
+NOTE_2085,TT&C,,Yes,High,,Nominal
+NOTE_2086,EPS,,Yes,High,,Nominal
+NOTE_2087,System,,Yes,High,,Nominal
+NOTE_2088,System,,Yes,High,,Nominal
+NOTE_2089,EPS,,Yes,High,,Nominal
+NOTE_2090,TT&C,,Yes,High,,Nominal
+NOTE_2091,TT&C,,Yes,High,,Nominal
+NOTE_2092,EPS,,Yes,High,,Nominal
+NOTE_2093,System,,Yes,High,,Nominal
+NOTE_2094,System,,Yes,High,,Nominal
+NOTE_2095,EPS,,Yes,High,,Nominal
+NOTE_2096,TT&C,,Yes,High,,Nominal
+NOTE_2097,TT&C,,Yes,High,,Nominal
+NOTE_2098,EPS,,Yes,High,,Nominal
+NOTE_2099,System,,Yes,High,,Nominal
+NOTE_2100,System,,Yes,High,,Nominal
+NOTE_2101,EPS,,Yes,High,,Nominal
+NOTE_2102,TT&C,,Yes,High,,Nominal
+NOTE_2103,TT&C,,Yes,High,,Nominal
+NOTE_2104,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2105,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2106,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2107,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2108,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2109,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2110,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2111,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2112,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2113,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2114,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2115,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2116,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2117,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2118,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2119,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2120,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2121,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2122,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2123,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2124,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2125,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2126,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2127,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2128,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2129,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2130,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2131,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2132,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2133,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2134,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2135,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2136,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2137,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2138,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2139,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2140,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2141,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2142,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2143,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2144,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2145,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2146,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2147,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2148,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2149,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2150,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2151,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2152,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2153,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2154,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2155,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2156,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2157,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2158,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2159,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2160,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2161,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2162,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2163,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2164,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2165,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2166,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2167,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2168,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2169,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2170,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2171,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2172,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2173,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2174,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2175,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2176,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2177,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2178,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2179,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2180,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2181,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2182,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2183,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2184,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2185,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2186,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2187,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2188,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2189,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2190,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2191,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2192,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2193,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2194,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2195,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2196,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2197,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2198,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2199,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2200,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2201,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2202,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2203,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2204,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2205,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2206,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2207,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2208,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2209,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2210,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2211,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2212,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2213,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2214,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2215,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2216,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2217,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2218,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2219,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2220,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2221,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2222,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2223,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2224,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2225,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2226,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2227,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2228,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2229,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2230,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2231,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2232,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2233,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2234,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2235,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2236,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2237,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2238,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2239,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2240,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2241,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2242,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2243,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2244,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2245,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2246,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2247,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2248,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2249,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2250,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2251,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2252,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2253,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2254,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2255,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2256,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2257,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2258,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2259,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2260,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2261,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2262,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2263,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2264,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2265,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2266,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2267,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2268,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2269,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2270,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2271,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2272,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2273,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2274,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2275,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2276,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2277,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2278,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2279,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2280,ADCS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2281,System,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2282,EPS,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2283,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2284,TT&C,Reaction Wheel Mechanical Wear,No,High,Monitor,Low
+NOTE_2285,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2286,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2287,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2288,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2289,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2290,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2291,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2292,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2293,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2294,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2295,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2296,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2297,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2298,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2299,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2300,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2301,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2302,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2303,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2304,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2305,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2306,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2307,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2308,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2309,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2310,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2311,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2312,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2313,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2314,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2315,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2316,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2317,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2318,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2319,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2320,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2321,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2322,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2323,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2324,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2325,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2326,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2327,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2328,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2329,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2330,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2331,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2332,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2333,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2334,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2335,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2336,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2337,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2338,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2339,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2340,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2341,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2342,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2343,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2344,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2345,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2346,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2347,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2348,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2349,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2350,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2351,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2352,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2353,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2354,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2355,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2356,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2357,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2358,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2359,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2360,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2361,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2362,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2363,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2364,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2365,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2366,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2367,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2368,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2369,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2370,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2371,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2372,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2373,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2374,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2375,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2376,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2377,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2378,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2379,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2380,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2381,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2382,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2383,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2384,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2385,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2386,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2387,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2388,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2389,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2390,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2391,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2392,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2393,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2394,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2395,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2396,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2397,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2398,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2399,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2400,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2401,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2402,System,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2403,EPS,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2404,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2405,TT&C,Solar Panel Power Degradation,No,High,Monitor,Low
+NOTE_2406,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2407,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2408,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2409,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2410,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2411,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2412,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2413,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2414,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2415,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2416,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2417,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2418,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2419,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2420,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2421,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2422,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2423,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2424,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2425,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2426,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2427,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2428,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2429,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2430,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2431,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2432,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2433,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2434,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2435,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2436,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2437,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2438,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2439,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2440,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2441,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2442,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2443,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2444,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2445,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2446,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2447,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2448,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2449,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2450,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2451,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2452,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2453,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2454,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2455,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2456,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2457,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2458,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2459,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2460,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2461,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2462,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2463,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2464,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2465,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2466,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2467,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2468,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2469,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2470,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2471,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2472,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2473,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2474,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2475,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2476,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2477,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2478,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2479,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2480,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2481,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2482,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2483,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2484,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2485,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2486,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2487,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2488,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2489,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2490,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2491,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2492,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2493,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2494,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2495,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2496,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2497,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2498,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2499,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2500,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2501,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2502,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2503,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2504,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2505,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2506,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2507,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2508,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2509,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2510,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2511,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2512,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2513,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2514,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2515,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2516,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2517,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2518,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2519,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2520,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2521,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2522,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2523,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2524,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2525,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2526,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2527,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2528,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2529,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2530,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2531,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2532,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2533,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2534,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2535,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2536,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2537,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2538,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2539,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2540,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2541,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2542,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2543,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2544,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2545,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2546,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2547,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2548,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2549,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2550,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2551,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2552,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2553,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2554,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2555,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2556,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2557,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2558,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2559,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2560,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2561,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2562,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2563,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2564,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2565,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2566,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2567,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2568,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2569,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2570,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2571,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2572,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2573,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2574,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2575,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2576,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2577,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2578,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2579,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2580,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2581,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2582,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2583,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2584,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2585,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2586,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2587,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2588,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2589,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2590,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2591,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2592,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2593,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2594,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2595,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2596,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2597,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2598,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2599,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2600,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2601,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2602,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2603,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2604,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2605,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2606,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2607,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2608,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2609,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2610,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2611,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2612,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2613,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2614,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2615,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2616,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2617,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2618,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2619,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2620,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2621,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2622,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2623,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2624,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2625,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2626,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2627,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2628,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2629,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2630,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2631,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2632,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2633,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2634,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2635,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2636,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2637,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2638,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2639,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2640,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2641,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2642,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2643,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2644,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2645,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2646,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2647,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2648,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2649,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2650,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2651,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2652,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2653,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2654,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2655,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2656,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2657,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2658,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2659,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2660,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2661,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2662,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2663,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2664,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2665,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2666,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2667,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2668,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2669,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2670,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2671,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2672,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2673,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2674,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2675,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2676,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2677,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2678,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2679,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2680,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2681,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2682,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2683,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2684,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2685,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2686,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2687,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2688,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2689,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2690,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2691,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2692,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2693,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2694,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2695,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2696,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2697,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2698,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2699,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2700,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2701,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2702,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2703,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2704,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2705,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2706,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2707,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2708,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2709,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2710,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2711,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2712,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2713,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2714,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2715,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2716,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2717,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2718,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2719,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2720,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2721,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2722,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2723,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2724,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2725,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2726,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2727,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2728,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2729,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2730,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2731,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2732,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2733,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2734,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2735,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2736,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2737,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2738,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2739,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2740,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2741,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2742,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2743,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2744,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2745,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2746,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2747,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2748,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2749,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2750,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2751,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2752,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2753,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2754,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2755,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2756,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2757,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2758,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2759,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2760,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2761,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2762,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2763,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2764,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2765,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2766,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2767,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2768,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2769,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2770,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2771,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2772,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2773,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2774,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2775,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2776,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2777,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2778,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2779,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2780,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2781,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2782,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2783,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2784,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2785,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2786,EPS,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2787,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2788,ADCS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2789,System,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2790,EPS,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2791,TT&C,Magnetometer Thermal Offset,No,High,Monitor,Low
+NOTE_2792,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2793,System,Safe Mode Recovery,No,High,Monitor,Medium
+NOTE_2794,System,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical
+NOTE_2795,TT&C,OBC Undervoltage Safe Mode,No,High,Command Safe Mode,Critical

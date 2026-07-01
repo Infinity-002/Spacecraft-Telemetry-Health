@@ -1,0 +1,113 @@
+# Spacecraft Fault Library
+# Defines characteristics, evolution profiles, and operator observation rules for simulated faults
+
+faults:
+  - id: battery_aging
+    name: Battery Capacity Aging
+    description: Gradual chemical degradation of battery cells leading to capacity fade and increased internal resistance.
+    evolution_type: Gradual
+    affected_telemetry:
+      - batt_soc
+      - batt_voltage
+      - batt_temp
+    evolution_description: "Develops over years of mission life (10^7 cycles). In simulations, it is injected as a step change in internal resistance (+150%) and capacity decrease (-30%)."
+    operator_observations:
+      - "Battery State of Charge (batt_soc) drains 30% faster during eclipse passages."
+      - "Battery voltage drops significantly lower under payload load (dips below 24.5V warning limit)."
+      - "Elevated temperature spikes during charging (batt_temp rises 4°C higher than nominal due to Joule heating)."
+
+  - id: cell_imbalance
+    name: Battery Cell Imbalance
+    description: Divergence in cell capacities within the battery pack, causing premature charge/discharge limits.
+    evolution_type: Gradual
+    affected_telemetry:
+      - batt_voltage
+      - batt_soc
+    evolution_description: "Develops over weeks (10^5 seconds) as unequal cell charging rates accumulate."
+    operator_observations:
+      - "Battery voltage (batt_voltage) behaves erratically during float charge, reaching the 33.0V warning limit early."
+      - "State of Charge (batt_soc) reporting becomes non-linear and exhibits sudden downward jumps when discharging."
+
+  - id: solar_panel_degradation
+    name: Solar Panel Radiation Degradation
+    description: Reduction of solar cell conversion efficiency caused by solar proton cumulative fluence.
+    evolution_type: Gradual
+    affected_telemetry:
+      - sa_current
+      - batt_soc
+    evolution_description: "Very slow decay (1.5% drop per year). In simulations, accelerated to show a 20% drop in maximum current over 10 days."
+    operator_observations:
+      - "Solar array peak current (sa_current) fails to exceed 9.6A under direct solar flux (nominal is 12.0A)."
+      - "Battery takes longer to reach 100% SoC, occasionally failing to fully charge before entering eclipse."
+
+  - id: rw_friction
+    name: Reaction Wheel Bearing Friction
+    description: Increased mechanical friction in the reaction wheel assembly bearings due to lubricant degradation.
+    evolution_type: Gradual
+    affected_telemetry:
+      - rw_current
+      - temp_rw
+      - rw_speed
+    evolution_description: "Evolves over weeks. Friction coefficient increases quadratically with wheel speed."
+    operator_observations:
+      - "Reaction wheel current (rw_current) rises above 1.2A warning limit at speeds above 3000 RPM."
+      - "Wheel motor temperature (temp_rw) operates 10°C to 15°C hotter than nominal under control maneuvers."
+      - "Attitude pointing error fluctuates during high-torque slews."
+
+  - id: comm_loss
+    name: RF Communication Uplink/Downlink Loss
+    description: Complete RF silent failure or antenna misalignment causing data link drop.
+    evolution_type: Sudden
+    affected_telemetry:
+      - comm_link_status
+      - rx_rssi
+      - data_rate
+    evolution_description: "Instantaneous drop (0.1 seconds) when link fails during ground pass contact."
+    operator_observations:
+      - "Ground control receives zero telemetry packets during scheduled pass."
+      - "Receiver RSSI drops to noise floor (below -115.0 dBm)."
+      - "Downlink data rate drops to 0 kbps while comm_link_status remains 0."
+
+  - id: sensor_drift
+    name: Magnetometer Calibration Sensor Drift
+    description: Thermal or magnetic bias drift in the magnetometer measurements.
+    evolution_type: Gradual
+    affected_telemetry:
+      - mag_field_x
+      - mag_field_y
+      - mag_field_z
+      - pointing_error
+    evolution_description: "Slow offset drift (e.g., 0.1 µT per hour) caused by sensor thermal expansion."
+    operator_observations:
+      - "Constant pointing offset error develops, rising slowly from 0.02 to 0.4 degrees."
+      - "Attitude control wheels (rw_speed) show persistent spin acceleration to combat the ghost drift torque."
+
+  - id: thermal_runaway
+    name: Battery Thermal Runaway
+    description: Exothermic battery chemical reactions triggered by extreme heat, leading to cell combustion.
+    evolution_type: Exponential
+    affected_telemetry:
+      - batt_temp
+      - batt_voltage
+      - obc_temp
+      - fsw_mode
+    evolution_description: "Very rapid (seconds to minutes) exponential rise in battery cell temperature once exceeding 45°C."
+    operator_observations:
+      - "Battery temperature (batt_temp) spikes from 40°C to over 100°C in less than 2 minutes."
+      - "Battery terminal voltage drops instantly to 0.0V (short circuit / cell fusion)."
+      - "Critical system alerts generated before complete telemetry loss (OBC brownout/reset)."
+
+  - id: cooling_failure
+    name: Active Cooling Loop Pump Failure
+    description: Loss of heat transport capability in the central thermal bus, isolating hot components.
+    evolution_type: Sudden
+    affected_telemetry:
+      - temp_tx
+      - temp_obc
+      - temp_rw
+      - temp_structure
+    evolution_description: "Instantaneous loss of thermal conduction paths between hot nodes and the structure."
+    operator_observations:
+      - "Transmitter temperature (temp_tx) spikes rapidly during communication windows (exceeds 65.0°C warning threshold)."
+      - "OBC temperature (temp_obc) rises continuously during high-CPU operations, exceeding 50.0°C."
+      - "Spacecraft structure temperature (temp_structure) drops below nominal as heat is trapped in local components."

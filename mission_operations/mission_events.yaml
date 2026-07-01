@@ -1,0 +1,123 @@
+# Spacecraft Mission Events Library
+# Defines standard operational conditions and states of the spacecraft
+
+events:
+  - id: nominal
+    name: Nominal Orbit Operations
+    description: Standard orbital cruise where solar arrays generate power and subsystems operate in quiescent mode.
+    severity: Normal
+    duration: 3828.0  # 63.8 minutes (sunlit portion of a 98.8 min orbit)
+    affected_telemetry:
+      - sa_voltage
+      - sa_current
+      - batt_current
+      - batt_soc
+      - pointing_error
+    expected_behaviour:
+      sa_voltage: "Oscillates between 38.0V and 42.0V based on sun aspect angle."
+      sa_current: "Stable generation between 8.0A and 12.0A."
+      batt_current: "Positive net charging current (2.0A to 5.0A) replenishing the battery."
+      batt_soc: "Increases linearly from orbit entry level until hitting 100% saturation."
+      pointing_error: "Maintained below 0.05 degrees by ADCS."
+
+  - id: eclipse
+    name: Eclipse Passage
+    description: Spacecraft enters the Earth's shadow, resulting in zero solar illumination.
+    severity: Normal
+    duration: 2100.0  # 35.0 minutes (eclipse portion of a 98.8 min orbit)
+    affected_telemetry:
+      - sa_voltage
+      - sa_current
+      - batt_current
+      - batt_voltage
+      - batt_soc
+      - solar_flux
+      - temp_structure
+    expected_behaviour:
+      solar_flux: "Drops immediately to 0.0 W/m²."
+      sa_voltage: "Drops to 0.0V."
+      sa_current: "Drops to 0.0A."
+      batt_current: "Flips to negative discharging current (-3.0A to -5.0A) to support bus load."
+      batt_voltage: "Decreases from float charge level (~32.0V) down to nominal load voltage (~26.8V)."
+      batt_soc: "Drains linearly by approximately 15% to 20% over the passage."
+      temp_structure: "Gradually drops from 40.0°C to -30.0°C due to radiative heat loss in shadow."
+
+  - id: ground_pass
+    name: Ground Station Pass
+    description: Spacecraft has direct line-of-sight contact with a ground station.
+    severity: Normal
+    duration: 600.0  # 10.0 minutes
+    affected_telemetry:
+      - comm_link_status
+      - rx_rssi
+    expected_behaviour:
+      comm_link_status: "Transitions from 0 (no contact) to 1 (active contact)."
+      rx_rssi: "Rises above threshold, peaking around -65.0 dBm depending on elevation angle."
+
+  - id: payload_active
+    name: Scientific Payload Active
+    description: High-resolution imaging or science instrument is powered on for observation.
+    severity: Normal
+    duration: 900.0  # 15.0 minutes
+    affected_telemetry:
+      - bus_current
+      - fsw_mode
+      - temp_structure
+      - cpu_usage
+    expected_behaviour:
+      fsw_mode: "Set to 2 (Nominal Science Mode)."
+      bus_current: "Spikes from 2.0A up to 7.5A due to payload power draw."
+      cpu_usage: "Increases from 15% to 45% due to data compression and processing."
+      temp_structure: "Local heating observed near payload mounts, rising by 5.0°C."
+
+  - id: payload_idle
+    name: Scientific Payload Idle
+    description: Payload is placed in low-power standby mode between observation targets.
+    severity: Normal
+    duration: Indefinite
+    affected_telemetry:
+      - bus_current
+      - fsw_mode
+      - cpu_usage
+    expected_behaviour:
+      fsw_mode: "Set to 1 (Nominal Cruise/Detumbling)."
+      bus_current: "Drops back to baseline 2.0A."
+      cpu_usage: "OBC load settles back to 15% idle usage."
+
+  - id: safe_mode
+    name: Spacecraft Safe Mode
+    description: Automated fault response state. Non-essential loads are shed, and arrays are pointed to sun.
+    severity: Warning
+    duration: Indefinite  # Requires operator intervention to exit
+    affected_telemetry:
+      - fsw_mode
+      - bus_current
+      - tx_power
+      - data_rate
+      - pointing_error
+      - heater_state
+    expected_behaviour:
+      fsw_mode: "Set to 0 (Safe Mode)."
+      bus_current: "Drops to critical minimum load (~1.2A) as payload and heaters are disabled."
+      tx_power: "Transmitter forced off (0W) to conserve power."
+      data_rate: "Downlink speed forced to 0 kbps."
+      pointing_error: "Sun-acquisition mode maintains array pointing error under 1.0 degree."
+      heater_state: "Duty cycle restricted to survival thermal targets."
+
+  - id: communication_window
+    name: High-Rate Communication Window
+    description: Telemetry and science data downlinking is active while in ground station contact.
+    severity: Normal
+    duration: 600.0  # 10.0 minutes (coincides with ground pass)
+    affected_telemetry:
+      - fsw_mode
+      - tx_power
+      - tx_temp
+      - bus_current
+      - data_rate
+    expected_behaviour:
+      fsw_mode: "Set to 3 (High-rate Downlink Mode)."
+      tx_power: "Transmitter turned on at full 10.0W power."
+      tx_temp: "Power amplifier temperature rises rapidly, scaling from 20.0°C to 48.0°C."
+      bus_current: "Bus current increases by 1.8A due to transmitter amplifier load."
+      data_rate: "Data rate matches S-band link limit of 2048.0 kbps."

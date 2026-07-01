@@ -1,0 +1,257 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+:root {
+  --bg-primary: #080c16;
+  --bg-surface: rgba(17, 24, 39, 0.7);
+  --bg-elevated: rgba(31, 41, 55, 0.7);
+  --border: rgba(75, 85, 99, 0.3);
+  --border-active: #3b82f6;
+  --text-primary: #f3f4f6;
+  --text-secondary: #9ca3af;
+  --text-muted: #6b7280;
+  
+  --severity-nominal: #10b981;
+  --severity-monitor: #f59e0b;
+  --severity-investigate: #f97316;
+  --severity-immediate: #ef4444;
+  --accent: #3b82f6;
+  --radius-card: 8px;
+  --radius-badge: 4px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  overflow: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+code, pre, .mono {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 12px;
+}
+
+/* App Shell */
+.app-shell {
+  display: grid;
+  grid-template-rows: 56px 1fr;
+  height: 100vh;
+  width: 100vw;
+  background-image: radial-gradient(circle at top right, rgba(17, 24, 39, 0.8), var(--bg-primary));
+}
+
+.header {
+  height: 56px;
+  background-color: rgba(17, 24, 39, 0.8);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 24px;
+  z-index: 10;
+}
+
+.header h1 {
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.main-container {
+  display: grid;
+  grid-template-columns: 360px 1fr;
+  height: calc(100vh - 56px);
+  overflow: hidden;
+}
+
+.left-panel {
+  border-right: 1px solid var(--border);
+  background-color: rgba(10, 15, 30, 0.4);
+  overflow-y: auto;
+  height: 100%;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.right-panel {
+  background-color: transparent;
+  overflow-y: auto;
+  height: 100%;
+  padding: 24px;
+}
+
+/* Cards with Glassmorphism */
+.card {
+  background: var(--bg-surface);
+  backdrop-filter: blur(12px);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-card);
+  padding: 16px;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  cursor: pointer;
+}
+
+.card:hover {
+  border-color: rgba(156, 163, 175, 0.5);
+  transform: translateY(-1px);
+}
+
+.card.selected {
+  background: rgba(31, 41, 55, 0.5);
+  border-color: var(--border-active);
+  box-shadow: 0 0 12px rgba(59, 130, 246, 0.15);
+}
+
+/* Badges */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 3px 8px;
+  border-radius: var(--radius-badge);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  text-transform: uppercase;
+}
+
+.badge-nominal {
+  background-color: rgba(16, 185, 129, 0.1);
+  color: var(--severity-nominal);
+  border: 1px solid rgba(16, 185, 129, 0.2);
+}
+
+.badge-monitor {
+  background-color: rgba(245, 158, 11, 0.1);
+  color: var(--severity-monitor);
+  border: 1px solid rgba(245, 158, 11, 0.2);
+}
+
+.badge-investigate {
+  background-color: rgba(249, 115, 22, 0.1);
+  color: var(--severity-investigate);
+  border: 1px solid rgba(249, 115, 22, 0.2);
+}
+
+.badge-immediate {
+  background-color: rgba(239, 68, 68, 0.15);
+  color: var(--severity-immediate);
+  border: 1px solid rgba(239, 68, 68, 0.3);
+  animation: pulse-immediate 1.5s ease-in-out infinite;
+}
+
+@keyframes pulse-immediate {
+  0%, 100% { opacity: 1; filter: brightness(1); }
+  50% { opacity: 0.8; filter: brightness(1.2); }
+}
+
+@keyframes slide-in {
+  from { transform: translateY(-20px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+.pass-card-new {
+  animation: slide-in 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.glow-nominal { border-color: var(--severity-nominal); box-shadow: 0 0 10px rgba(16, 185, 129, 0.2); }
+.glow-monitor { border-color: var(--severity-monitor); box-shadow: 0 0 10px rgba(245, 158, 11, 0.2); }
+.glow-investigate { border-color: var(--severity-investigate); box-shadow: 0 0 10px rgba(249, 115, 22, 0.2); }
+.glow-immediate { border-color: var(--severity-immediate); box-shadow: 0 0 10px rgba(239, 68, 68, 0.3); }
+
+/* Timeline vertical line */
+.timeline-container {
+  position: relative;
+  padding-left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.timeline-container::before {
+  content: '';
+  position: absolute;
+  left: 4px;
+  top: 8px;
+  bottom: 8px;
+  width: 1px;
+  background-color: var(--border);
+}
+
+.timeline-dot {
+  position: absolute;
+  left: 0px;
+  top: 8px;
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  border: 2px solid var(--bg-primary);
+  z-index: 2;
+}
+
+.dot-nominal { background-color: var(--severity-nominal); box-shadow: 0 0 6px var(--severity-nominal); }
+.dot-monitor { background-color: var(--severity-monitor); box-shadow: 0 0 6px var(--severity-monitor); }
+.dot-investigate { background-color: var(--severity-investigate); box-shadow: 0 0 6px var(--severity-investigate); }
+.dot-immediate { background-color: var(--severity-immediate); box-shadow: 0 0 6px var(--severity-immediate); }
+
+/* Forms & Inputs */
+input, select, textarea {
+  background-color: rgba(17, 24, 39, 0.8);
+  border: 1px solid var(--border);
+  color: var(--text-primary);
+  border-radius: var(--radius-badge);
+  padding: 6px 12px;
+  font-family: inherit;
+  font-size: 13px;
+  outline: none;
+}
+
+input:focus, select:focus, textarea:focus {
+  border-color: var(--accent);
+}
+
+button {
+  background-color: var(--accent);
+  color: #ffffff;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: var(--radius-badge);
+  padding: 8px 16px;
+  font-weight: 500;
+  font-size: 13px;
+  cursor: pointer;
+  transition: all 0.1s ease;
+}
+
+button:hover {
+  filter: brightness(1.1);
+}
+
+button:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+/* Responsive grid stacking */
+@media (max-width: 1024px) {
+  .main-container {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 1fr;
+    height: auto;
+    overflow-y: auto;
+  }
+  .left-panel, .right-panel {
+    height: auto;
+    overflow-y: visible;
+  }
+}
