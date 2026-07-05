@@ -4,8 +4,6 @@ from pathlib import Path
 import sys
 
 import numpy as np
-from dataclasses import replace
-from dss_system.urgency_calibrator import calibrate_urgency
 
 try:
     import pandas as pd
@@ -139,12 +137,6 @@ def evaluate_notes(
             telemetry_row["temp_rw"] = float(row["temp_rw"])
         rule_result = evaluate_rules(telemetry_row)
         note_context = predict_note_context(str(row["operator_note"]), telemetry_row, joint_model_artifacts)
-        calibrated_urgency, urgency_reason = calibrate_urgency(
-            note_context.urgency,
-            note_context.fault_type,
-            float(row["telemetry_pvalue"]),
-        )
-        note_context = replace(note_context, urgency=calibrated_urgency, concern=calibrated_urgency)
         reliability = score_note_reliability(
             str(row["operator_note"]),
             note_context,

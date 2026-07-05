@@ -43,6 +43,19 @@ class JointContextArtifacts:
     feature_columns: list[str]
 
 
+@dataclass(frozen=True)
+class NoteContext:
+    expected: bool | None
+    subsystem: str
+    concern: str
+    fault_type: str
+    urgency: str
+    action: str
+    matched_terms: tuple[str, ...] = ()
+    model_confidence: float = 0.0
+    parser_source: str = "joint-context-pytorch"
+
+
 def require_torch() -> None:
     if torch is None:
         raise ModuleNotFoundError("PyTorch is required for the joint context model.")
@@ -359,7 +372,6 @@ def predict_note_context(
         if part and part != "None"
     )
     
-    from dss_system.nlp_parser import NoteContext
     return NoteContext(
         expected=expected,
         subsystem=predictions["subsystem"][0],
@@ -371,4 +383,3 @@ def predict_note_context(
         model_confidence=avg_confidence,
         parser_source="joint-context-pytorch",
     )
-

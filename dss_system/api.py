@@ -4,7 +4,7 @@ import asyncio
 from datetime import datetime
 import json
 from pathlib import Path
-from typing import Optional, List, Dict
+from typing import Optional, Dict
 
 import numpy as np
 import pandas as pd
@@ -17,7 +17,6 @@ from dss_system import FEATURE_COLUMNS
 from dss_system.fusion_engine import Decision
 from dss_system.pass_aggregator import PassSummary
 from dss_system.trend_detector import TrendAlert
-from dss_system.joint_context_model import predict_note_context
 
 
 app = FastAPI(title="Spacecraft DSS API")
@@ -34,7 +33,6 @@ app.add_middleware(
 ROOT = Path(__file__).resolve().parents[1]
 TELEMETRY_PATH = ROOT / "telemetry_simulation" / "telemetry.csv"
 NOTES_PATH = ROOT / "flight_logs" / "operator_notes.csv"
-ANNOTATIONS_PATH = ROOT / "flight_logs" / "note_annotations.csv"
 OVERRIDES_PATH = ROOT / "artifacts" / "overrides.json"
 
 # In-memory result cache

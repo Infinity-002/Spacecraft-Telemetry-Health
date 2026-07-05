@@ -1,13 +1,18 @@
 """Operator-note reliability scoring."""
 
+from __future__ import annotations
+
 from dataclasses import dataclass
 import re
+from typing import TYPE_CHECKING
 from typing import Mapping
 
 import numpy as np
 
 from . import FEATURE_COLUMNS
-from .nlp_parser import NoteContext
+
+if TYPE_CHECKING:
+    from .joint_context_model import NoteContext
 
 
 @dataclass(frozen=True)

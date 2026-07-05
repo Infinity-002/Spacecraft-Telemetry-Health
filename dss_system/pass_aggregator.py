@@ -176,8 +176,6 @@ def aggregate_all_passes(
     for (mission_id, orbit_number), pass_decisions in sorted(by_pass.items()):
         pass_decisions = sorted(pass_decisions, key=lambda d: pd.to_datetime(d["timestamp"]))
 
-        pass_end_time = pd.to_datetime(pass_decisions[-1]["timestamp"]).to_pydatetime()
-
         overlapping = []
         if trend_alerts:
             overlapping = [

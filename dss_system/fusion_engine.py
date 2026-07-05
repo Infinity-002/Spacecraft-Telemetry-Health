@@ -1,12 +1,17 @@
 """Evidence fusion for telemetry, rules, and operator notes using Dempster-Shafer."""
 
+from __future__ import annotations
+
 from dataclasses import dataclass
+from typing import TYPE_CHECKING
 from typing import Optional
 import numpy as np
 
-from .nlp_parser import NoteContext
 from .reliability_module import ReliabilityResult
 from .rule_engine import RuleResult
+
+if TYPE_CHECKING:
+    from .joint_context_model import NoteContext
 
 
 @dataclass(frozen=True)
